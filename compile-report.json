@@ -50,6 +50,51 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class013/QueueStackAndCircularQueue.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class014/ConvertQueueAndStack.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class015/GetMinStack.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class016/CircularDeque.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class017/BinaryTreeTraversalRecursion.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class018/BinaryTreeTraversalIteration.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class020/GetMaxValue.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class021/Code01_MergeSort.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class021/Code02_MergeSort.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class022/Code01_SmallSum2.cpp",
     "passed": true,
     "diagnostics": ""
