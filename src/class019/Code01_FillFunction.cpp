@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/840eee05dccd4ffd8f9433ce8085946b
+
 // Ported from algorithmzuo/algorithm-journey/src/class019/Code01_FillFunction.java
 #include <algorithm>
 #include <climits>

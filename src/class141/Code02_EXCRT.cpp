@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P4777
+// https://www.luogu.com.cn/problem/P1495
+
 // Source: src/class141/Code02_EXCRT.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

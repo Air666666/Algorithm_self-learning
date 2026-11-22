@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/545544c060804eceaed0bb84fcd992fb
+
 // Source: src/class046/Code04_PositivesEqualsNegtivesLongestSubarray.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

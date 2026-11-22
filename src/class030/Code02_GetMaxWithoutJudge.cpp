@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/d2707eaf98124f1e8f1d9c18ad487f76
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class030/Code02_GetMaxWithoutJudge.java
 // Restored from the upstream author's commented C++ implementation.
 // 不用任何判断语句和比较操作，返回两个数的最大值

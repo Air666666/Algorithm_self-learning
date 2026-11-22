@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// http://poj.org/problem?id=1780
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class188/Code07_Password2.java
 // Restored from the upstream author's commented C++ implementation.
 // 所有可能的密码串，C++版

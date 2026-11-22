@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF757G
+// https://codeforces.com/problemset/problem/757/G
+
 // Source: src/class187/Code03_PersistentEdgeDecompositionTree1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

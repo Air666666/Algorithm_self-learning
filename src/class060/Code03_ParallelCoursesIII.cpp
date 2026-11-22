@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/parallel-courses-iii/
+
 // Source: src/class060/Code03_ParallelCoursesIII.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

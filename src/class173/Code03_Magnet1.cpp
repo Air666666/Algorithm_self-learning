@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P10590
+// https://codeforces.com/problemset/problem/198/E
+
 // Source: src/class173/Code03_Magnet1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

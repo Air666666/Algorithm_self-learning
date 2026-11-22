@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/minimum-fuel-cost-to-report-to-the-capital/
+
 // Source: src/class079/Code01_MinimumFuelCost.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

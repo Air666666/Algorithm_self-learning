@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/decode-ways-ii/
+
 // Source: src/class066/Code04_DecodeWaysII.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

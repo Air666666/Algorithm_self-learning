@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF1009F
+// https://codeforces.com/problemset/problem/1009/F
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class162/Code06_DominantIndices2.java
 // Restored from the upstream author's commented C++ implementation.
 // 长链剖分优化动态规划模版题，C++版

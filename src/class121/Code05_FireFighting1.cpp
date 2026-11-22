@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P2491
+
 // Source: src/class121/Code05_FireFighting1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

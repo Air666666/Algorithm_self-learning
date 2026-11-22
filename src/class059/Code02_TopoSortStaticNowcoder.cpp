@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/88f7e156ca7d43a1a535f619cd3f495c
+
 // Source: src/class059/Code02_TopoSortStaticNowcoder.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

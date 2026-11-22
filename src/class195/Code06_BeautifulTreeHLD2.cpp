@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF1904F
+// https://codeforces.com/problemset/problem/1904/F
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class195/Code06_BeautifulTreeHLD2.java
 // Restored from the upstream author's commented C++ implementation.
 // 美丽的树，树剖优化建图，C++版

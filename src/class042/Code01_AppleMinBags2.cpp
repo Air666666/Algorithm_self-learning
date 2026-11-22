@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/73e0552b78474a9086781e47f4e01d73
+
 // Source: src/class042/Code01_AppleMinBags2.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

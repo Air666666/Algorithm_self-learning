@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF911G
+// https://codeforces.com/problemset/problem/911/G
+
 // Source: src/class182/Code05_MassChangeQueries1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

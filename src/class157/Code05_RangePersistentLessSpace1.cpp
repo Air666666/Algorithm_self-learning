@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://acm.hdu.edu.cn/showproblem.php?pid=4348
+
 // Source: src/class157/Code05_RangePersistentLessSpace1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/rabbits-in-forest/
+
 // Source: src/class092/Code02_RabbitsInForest.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

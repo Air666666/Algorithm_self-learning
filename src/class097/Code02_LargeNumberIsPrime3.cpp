@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/U148828
+
 // Restored original C++ teaching code.
 
 #include <algorithm>

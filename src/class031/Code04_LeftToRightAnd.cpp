@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/bitwise-and-of-numbers-range/
+
 // Ported from src/class031/Code04_LeftToRightAnd.java
 #include <cstdint>
 #include <iostream>

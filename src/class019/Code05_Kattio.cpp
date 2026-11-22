@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://oi-wiki.org/lang/java-pro/
+
 // Source: algorithmzuo/algorithm-journey/src/class019/Code05_Kattio.java
 // C++ 对应的按 token 读取示例：整数直接按整数解析，避免先经过 double 丢失精度。
 // std::stod 支持科学计数法；无需模拟 Java StreamTokenizer 的解析缺陷。

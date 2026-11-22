@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/edfe05a1d45c4ea89101d936cac32469
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class022/Code01_SmallSum2.java
 // Restored from the upstream author's commented C++ implementation.
 // 小和问题，C++版

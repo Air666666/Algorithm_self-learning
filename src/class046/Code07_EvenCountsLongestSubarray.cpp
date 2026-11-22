@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/find-the-longest-substring-containing-vowels-in-even-counts/
+
 // Source: src/class046/Code07_EvenCountsLongestSubarray.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

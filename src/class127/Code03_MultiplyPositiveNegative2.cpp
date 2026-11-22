@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://codeforces.com/problemset/problem/1215/B
+
 // Source: src/class127/Code03_MultiplyPositiveNegative2.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

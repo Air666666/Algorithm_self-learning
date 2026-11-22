@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/power-of-two/
+
 // Ported from src/class031/Code01_PowerOfTwo.java
 #include <cstdint>
 #include <iostream>

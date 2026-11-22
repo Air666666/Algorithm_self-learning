@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF1406C
+// https://codeforces.com/problemset/problem/1406/C
+
 // Source: src/class120/Code04_LinkCutCentroids.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

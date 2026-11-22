@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/edfe05a1d45c4ea89101d936cac32469
+
 // Ported from algorithmzuo/algorithm-journey/src/class022/Code01_SmallSum1.java
 #include <algorithm>
 #include <climits>

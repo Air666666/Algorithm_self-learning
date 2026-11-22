@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/partition-list/
+
 // Ported from algorithmzuo/algorithm-journey/src/class012/PartitionList.java
 
 // 给你一个链表的头节点 head 和一个特定值 x

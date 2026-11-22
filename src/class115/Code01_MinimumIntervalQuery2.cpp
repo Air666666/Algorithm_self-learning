@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/minimum-interval-to-include-each-query/
+
 // Source: src/class115/Code01_MinimumIntervalQuery2.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

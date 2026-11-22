@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/trapping-rain-water-ii/
+
 // Source: src/class062/Code05_TrappingRainWaterII.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P3206
+
 // Source: src/class203/Code07_CityConstruction1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

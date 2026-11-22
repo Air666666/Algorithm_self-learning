@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// http://poj.org/problem?id=1742
+// https://www.luogu.com.cn/problem/P10973
+
 // Source: src/class075/Code05_MixedKnapsack.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

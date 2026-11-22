@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/36fb0fd3c656480c92b569258a1223d5
+
 // Source: src/class046/Code02_LongestSubarraySumEqualsAim.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

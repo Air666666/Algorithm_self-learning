@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://oi-wiki.org/lang/java-pro/
+
 // Source: src/class112/Code04_DoubleString.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

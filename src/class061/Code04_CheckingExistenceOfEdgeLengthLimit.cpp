@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/checking-existence-of-edge-length-limited-paths/
+
 // Source: src/class061/Code04_CheckingExistenceOfEdgeLengthLimit.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

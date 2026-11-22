@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P5022
+// https://www.luogu.com.cn/problem/P5049
+
 // Source: src/class199/Code08_Journey1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

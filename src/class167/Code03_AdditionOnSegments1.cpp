@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF981E
+// https://codeforces.com/problemset/problem/981/E
+
 // Source: src/class167/Code03_AdditionOnSegments1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P4774
+
 // Source: src/class141/Code04_DragonSlayer.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

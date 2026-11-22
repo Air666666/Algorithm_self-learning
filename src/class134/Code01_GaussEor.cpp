@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://acm.hdu.edu.cn/showproblem.php?pid=5833
+// https://oi-wiki.org/lang/java-pro/
+
 // Source: src/class134/Code01_GaussEor.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

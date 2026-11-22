@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/2a2c00e7a88a498693568cef63a4b7bb
+
 // Source: src/class052/Code01_LeftRightLess.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

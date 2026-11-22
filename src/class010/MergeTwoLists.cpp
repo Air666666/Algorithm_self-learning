@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/merge-two-sorted-lists/
+
 // Ported from algorithmzuo/algorithm-journey/src/class010/MergeTwoLists.java
 
 // 将两个升序链表合并为一个新的 升序 链表并返回

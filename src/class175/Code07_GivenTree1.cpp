@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF1039D
+// https://codeforces.com/problemset/problem/1039/D
+
 // Source: src/class175/Code07_GivenTree1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/single-number-iii/
+
 // Ported from src/class030/Code05_DoubleNumber1.java
 #include <cstdint>
 #include <iostream>

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/d88ef50f8dab4850be8cd4b95514bbbd
+
 // Source: src/class043/Code01_KillMonsterEverySkillUseOnce.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

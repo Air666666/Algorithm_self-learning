@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/SP11470
+// https://www.spoj.com/problems/TTM
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class157/Code03_RangePersistentClassic2.java
 // Restored from the upstream author's commented C++ implementation.
 // 范围修改的可持久化线段树，经典的方式，C++版

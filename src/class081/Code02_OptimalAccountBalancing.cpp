@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/optimal-account-balancing/
+
 // Source: src/class081/Code02_OptimalAccountBalancing.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

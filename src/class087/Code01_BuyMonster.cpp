@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/736e12861f9746ab8ae064d4aae2d5a9
+
 // Source: src/class087/Code01_BuyMonster.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

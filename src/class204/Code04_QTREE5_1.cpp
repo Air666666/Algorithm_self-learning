@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/SP2939
+// https://www.spoj.com/problems/QTREE5/
+
 // Source: src/class204/Code04_QTREE5_1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/critical-connections-in-a-network/
+
 // Restored upstream C++: src/class191/Code02_CutEdge2.java
 #include <algorithm>
 #include <climits>

@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/alien-dictionary/
+// https://leetcode.cn/problems/Jf1JuT/
+
 // Source: src/class059/Code04_AlienDictionary.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

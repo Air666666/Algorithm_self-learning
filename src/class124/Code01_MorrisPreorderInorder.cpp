@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/binary-tree-preorder-traversal/
+// https://leetcode.cn/problems/binary-tree-inorder-traversal/
+
 // Source: src/class124/Code01_MorrisPreorderInorder.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

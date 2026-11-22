@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode-cn.com/problems/design-bitset/
+
 // Ported from class032/Code02_DesignBitsetTest.java
 #include <cstdint>
 #include <iostream>

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/minimum-edge-weight-equilibrium-queries-in-a-tree/
+
 // Source: src/class119/Code03_QueryPathMinimumChangesToSame.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

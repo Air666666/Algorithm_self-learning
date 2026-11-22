@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/50e1a93989df42efb0b1dec386fb4ccc
+
 // Source: src/class048/Code03_DiffMatrixNowcoder.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

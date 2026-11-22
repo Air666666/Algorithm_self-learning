@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://loj.ac/p/6565
+// https://www.luogu.com.cn/problem/P10639
+
 // Source: src/class114/Code06_FakestPlayer1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

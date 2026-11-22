@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/65cfde9e5b9b4cf2b6bafa5f3ef33fa6
+
 // Ported from class027/Code01_MergeKSortedLists.java
 #include <algorithm>
 #include <functional>

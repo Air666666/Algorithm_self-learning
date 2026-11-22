@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://acm.hdu.edu.cn/showproblem.php?pid=5755
+
 // Source: src/class135/Code01_GamblerBo.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://loj.ac/p/121
+
 // Source: src/class166/Code01_SegmentTreeDivideConquer1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/word-search/
+
 // Source: src/class067/Code02_WordSearch.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

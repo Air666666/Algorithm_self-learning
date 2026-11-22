@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/AT_abc318_g
+// https://atcoder.jp/contests/abc318/tasks/abc318_g
+
 // Source: src/class194/Code03_PathProblem1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

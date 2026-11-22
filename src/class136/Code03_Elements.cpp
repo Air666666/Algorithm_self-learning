@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P4570
+// https://oi-wiki.org/lang/java-pro/
+
 // Source: src/class136/Code03_Elements.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

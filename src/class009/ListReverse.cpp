@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/reverse-linked-list/
+
 // Source: algorithmzuo/algorithm-journey/src/class009/ListReverse.java
 // Java 的对象引用也是按值传递。这里用按值传递的指针演示：
 // 重设局部指针不影响调用方；通过指针修改对象会影响同一对象。

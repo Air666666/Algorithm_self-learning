@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/missing-number/
+
 // Ported from src/class030/Code03_MissingNumber.java
 #include <cstdint>
 #include <iostream>

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/3473e545d6924077a4f7cbc850408ade
+
 // Source: src/class083/Code04_LongestSubarraySumNoMoreK.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/7f8a8553ddbf4eaab749ec988726702b
+
 // Source: src/class044/Code02_TrieTree.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

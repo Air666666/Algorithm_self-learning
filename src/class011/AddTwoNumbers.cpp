@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/add-two-numbers/
+
 // Ported from algorithmzuo/algorithm-journey/src/class011/AddTwoNumbers.java
 
 // 给你两个 非空 的链表，表示两个非负的整数

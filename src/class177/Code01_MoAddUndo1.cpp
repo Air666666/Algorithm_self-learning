@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/AT_joisc2014_c
+// https://atcoder.jp/contests/joisc2014/tasks/joisc2014_c
+
 // Source: src/class177/Code01_MoAddUndo1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

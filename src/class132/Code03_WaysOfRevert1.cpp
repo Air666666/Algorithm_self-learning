@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/49c5284278974cbda474ec13d8bd86a9
+
 // Source: src/class132/Code03_WaysOfRevert1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

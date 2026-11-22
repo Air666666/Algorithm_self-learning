@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/implement-queue-using-stacks/
+// https://leetcode.cn/problems/implement-stack-using-queues/
+
 // Ported from algorithmzuo/algorithm-journey/src/class014/ConvertQueueAndStack.java
 #include <vector>
 #include <deque>

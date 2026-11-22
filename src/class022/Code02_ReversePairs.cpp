@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/reverse-pairs/
+
 // Ported from algorithmzuo/algorithm-journey/src/class022/Code02_ReversePairs.java
 #include <algorithm>
 #include <climits>

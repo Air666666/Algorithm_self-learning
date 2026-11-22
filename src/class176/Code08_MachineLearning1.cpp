@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF940F
+// https://codeforces.com/problemset/problem/940/F
+
 // Source: src/class176/Code08_MachineLearning1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

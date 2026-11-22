@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/AT_abc287_h
+// https://atcoder.jp/contests/abc287/tasks/abc287_h
+
 // Source: src/class207/Code06_DirectedGraphAndQuery1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

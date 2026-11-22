@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/longest-substring-with-at-least-k-repeating-characters/
+
 // Source: src/class049/Code07_LongestSubstringWithAtLeastKRepeating.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

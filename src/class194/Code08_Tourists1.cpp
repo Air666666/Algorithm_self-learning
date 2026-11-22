@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF487E
+// https://codeforces.com/problemset/problem/487/E
+
 // Source: src/class194/Code08_Tourists1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

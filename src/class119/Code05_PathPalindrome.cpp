@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://ac.nowcoder.com/acm/contest/78807/G
+// https://oi-wiki.org/lang/java-pro/
+
 // Source: src/class119/Code05_PathPalindrome.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

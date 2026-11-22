@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P3627
+
 // Source: src/class190/Code03_RobberyPlan1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

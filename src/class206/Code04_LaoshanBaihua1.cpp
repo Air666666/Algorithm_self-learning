@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://loj.ac/p/6016
+// https://www.luogu.com.cn/problem/P4848
+
 // Source: src/class206/Code04_LaoshanBaihua1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

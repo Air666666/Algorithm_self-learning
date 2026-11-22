@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/partition-array-into-two-arrays-to-minimize-sum-difference/
+
 // Source: src/class063/Code04_PartitionMinimizeDifference.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

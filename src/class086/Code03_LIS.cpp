@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/30fb9b3cab9742ecae9acda1c75bf927
+// https://www.luogu.com.cn/problem/T386911
+
 // Source: src/class086/Code03_LIS.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/minimum-operations-to-halve-array-sum/
+
 // Ported from class027/Code03_MinimumOperationsToHalveArraySum.java
 #include <algorithm>
 #include <functional>

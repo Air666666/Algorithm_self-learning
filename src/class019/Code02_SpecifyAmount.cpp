@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/cb82a97dcd0d48a7b1f4ee917e2c0409?
+
 // Ported from algorithmzuo/algorithm-journey/src/class019/Code02_SpecifyAmount.java
 #include <algorithm>
 #include <climits>

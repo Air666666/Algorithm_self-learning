@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/aaefe5896cce4204b276e213e725f3ea
+
 // Source: src/class067/Code05_NodenHeightNotLargerThanm.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

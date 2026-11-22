@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/serialize-and-deserialize-binary-tree/
+
 // Ported from class036/Code06_LevelorderSerializeAndDeserialize.java
 // deserialize 接收 serialize 产生的有效格式；返回节点由调用者释放。
 #include <deque>

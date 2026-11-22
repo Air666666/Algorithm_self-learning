@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/lowest-common-ancestor-of-a-binary-search-tree/
+
 // Ported from class037/Code02_LowestCommonAncestorBinarySearch.java
 // 节点由调用者管理；新增副本需要调用者释放。
 #include <algorithm>

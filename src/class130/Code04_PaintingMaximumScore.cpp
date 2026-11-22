@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// http://poj.org/problem?id=1821
+
 // Source: src/class130/Code04_PaintingMaximumScore.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

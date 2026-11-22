@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://acm.hdu.edu.cn/showproblem.php?pid=5919
+
 // Source: src/class158/Code01_FirstTimeSequence1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

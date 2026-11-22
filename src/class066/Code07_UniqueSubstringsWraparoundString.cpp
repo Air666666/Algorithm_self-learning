@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/unique-substrings-in-wraparound-string/
+
 // Source: src/class066/Code07_UniqueSubstringsWraparoundString.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P1439
+
 // Source: src/class087/Code03_PermutationLCS.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

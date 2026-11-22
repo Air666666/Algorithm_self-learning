@@ -12,6 +12,10 @@
 
 逐文件来源、原始 Git blob SHA、转换方式和目标 SHA-256 见 [conversion-manifest.json](conversion-manifest.json)。原仓库之后新增的文件不包含在此快照中。
 
+## 原题测试链接
+
+全部原题测试及参考链接见 [按课程分类的链接索引](PROBLEM_LINKS.md)，也已统一放在对应 C++ 文件开头。共 1,441 个文件含 1,662 条链接记录；其余 98 个原文件未提供链接，索引中已标注。本次整理只新增注释和文档，未改变可执行代码。
+
 ## 编译运行
 
 需要支持 C++17 的 Clang/GCC，以及 **Boost 头文件**（使用 Multiprecision，无需链接 Boost 二进制库）。Linux 可安装 `libboost-dev`；macOS 可通过 `brew install boost` 安装。Boost 不在编译器默认路径时，用 `CXXFLAGS` 指定 include 路径。

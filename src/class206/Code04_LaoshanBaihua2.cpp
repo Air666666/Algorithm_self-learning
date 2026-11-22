@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://loj.ac/p/6016
+// https://www.luogu.com.cn/problem/P4848
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class206/Code04_LaoshanBaihua2.java
 // Restored from the upstream author's commented C++ implementation.
 // 崂山白花蛇草水，C++版

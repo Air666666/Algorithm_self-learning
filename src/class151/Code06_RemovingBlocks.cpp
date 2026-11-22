@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/AT_agc028_b
+// https://atcoder.jp/contests/agc028/tasks/agc028_b
+
 // Source: src/class151/Code06_RemovingBlocks.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

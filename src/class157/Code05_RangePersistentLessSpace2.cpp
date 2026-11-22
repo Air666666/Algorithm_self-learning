@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://acm.hdu.edu.cn/showproblem.php?pid=4348
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class157/Code05_RangePersistentLessSpace2.java
 // Restored from the upstream author's commented C++ implementation.
 // 范围修改的可持久化线段树，标记永久化减少空间占用，C++版

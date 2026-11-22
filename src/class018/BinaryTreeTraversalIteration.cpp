@@ -1,3 +1,8 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/binary-tree-preorder-traversal/
+// https://leetcode.cn/problems/binary-tree-inorder-traversal/
+// https://leetcode.cn/problems/binary-tree-postorder-traversal/
+
 // Ported from algorithmzuo/algorithm-journey/src/class018/BinaryTreeTraversalIteration.java
 #include <algorithm>
 #include <iostream>

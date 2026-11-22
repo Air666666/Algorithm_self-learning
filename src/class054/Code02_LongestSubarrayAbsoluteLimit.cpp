@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/
+
 // Source: src/class054/Code02_LongestSubarrayAbsoluteLimit.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

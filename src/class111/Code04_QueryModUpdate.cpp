@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF438D
+// https://codeforces.com/problemset/problem/438/D
+
 // Source: src/class111/Code04_QueryModUpdate.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

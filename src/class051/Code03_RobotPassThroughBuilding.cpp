@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/7037a3d57bbd4336856b8e16a9cafd71
+
 // Source: src/class051/Code03_RobotPassThroughBuilding.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

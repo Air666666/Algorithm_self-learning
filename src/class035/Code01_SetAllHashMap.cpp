@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/7c4559f138e74ceb9ba57d76fd169967
+
 // Source: src/class035/Code01_SetAllHashMap.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P1177
+
 // Ported from algorithmzuo/algorithm-journey/src/class025/Code01_HeapSort.java
 #include <algorithm>
 #include <climits>

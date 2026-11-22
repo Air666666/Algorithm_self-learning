@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/divide-two-integers/
+
 // Ported from class033/BitOperationAddMinusMultiplyDivide.java
 #include <climits>
 #include <cstdint>

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
 // Ported from class036/Code07_PreorderInorderBuildBinaryTree.java
 // 节点由调用者管理；新增副本需要调用者释放。
 #include <algorithm>

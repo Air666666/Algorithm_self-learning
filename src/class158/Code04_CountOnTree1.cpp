@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P2633
+
 // Source: src/class158/Code04_CountOnTree1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/77199defc4b74b24b8ebf6244e1793de
+// https://leetcode.cn/problems/steps-to-make-array-non-decreasing/
+
 // Source: src/class053/Code03_BigFishEatSmallFish.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

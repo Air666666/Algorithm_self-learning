@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://acm.hdu.edu.cn/showproblem.php?pid=4614
+
 // Source: src/class111/Code02_VasesAndFlowers.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/find-peak-element/
+
 // Ported from algorithmzuo/algorithm-journey/src/class006/Code04_FindPeakElement.java
 #include <algorithm>
 #include <iostream>

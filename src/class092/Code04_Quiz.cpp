@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/2a9089ea7e5b474fa8f688eae76bc050
+
 // Source: src/class092/Code04_Quiz.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

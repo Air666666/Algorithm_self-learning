@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/AT_agc002_d
+// https://atcoder.jp/contests/agc002/tasks/agc002_d
+
 // Source: src/class164/Code03_StampRally1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

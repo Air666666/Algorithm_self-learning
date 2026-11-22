@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/valid-arrangement-of-pairs/
+
 // Restored upstream C++: src/class188/Code03_Arrangement2.java
 #include <algorithm>
 #include <climits>

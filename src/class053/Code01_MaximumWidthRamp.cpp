@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/maximum-width-ramp/
+
 // Source: src/class053/Code01_MaximumWidthRamp.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

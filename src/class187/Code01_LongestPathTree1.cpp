@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://hydro.ac/p/bzoj-P2870
+// https://darkbzoj.cc/problem/2870
+
 // Source: src/class187/Code01_LongestPathTree1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

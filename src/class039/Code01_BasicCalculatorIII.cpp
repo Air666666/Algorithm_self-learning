@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/basic-calculator-iii/
+// https://www.nowcoder.com/practice/c215ba61c8b1443b996351df929dc4d4
+
 // Source: src/class039/Code01_BasicCalculatorIII.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

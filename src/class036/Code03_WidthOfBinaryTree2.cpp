@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/maximum-width-of-binary-tree/
+
 // Restored upstream C++: src/class036/Code03_WidthOfBinaryTree2.java
 #include <algorithm>
 #include <climits>

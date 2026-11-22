@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/AT_abc210_f
+// https://atcoder.jp/contests/abc210/tasks/abc210_f
+
 // Source: src/class196/Code07_Coprime1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

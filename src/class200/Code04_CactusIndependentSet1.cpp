@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P4410
+// https://www.luogu.com.cn/problem/P10779
+
 // Source: src/class200/Code04_CactusIndependentSet1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

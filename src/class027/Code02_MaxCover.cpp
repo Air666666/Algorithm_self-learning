@@ -1,3 +1,8 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.nowcoder.com/practice/1ae8d0b6bb4e4bcdbf64ec491f63fc37
+// https://leetcode.cn/problems/meeting-rooms-ii/
+// https://leetcode.cn/problems/divide-intervals-into-minimum-number-of-groups/
+
 // Ported from class027/Code02_MaxCover.java
 #include <algorithm>
 #include <functional>

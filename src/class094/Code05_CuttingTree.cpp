@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://pintia.cn/problem-sets/91827364500/exam/problems/type/7?problemSetProblemId=91827367873
+
 // Source: src/class094/Code05_CuttingTree.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

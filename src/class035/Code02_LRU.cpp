@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/lru-cache/
+
 // Source: src/class035/Code02_LRU.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

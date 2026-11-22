@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/longest-path-with-different-adjacent-characters/
+
 // Source: src/class079/Code02_LongestPathWithDifferentAdjacent.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

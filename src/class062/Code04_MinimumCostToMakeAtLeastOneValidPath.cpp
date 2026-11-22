@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/
+
 // Source: src/class062/Code04_MinimumCostToMakeAtLeastOneValidPath.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

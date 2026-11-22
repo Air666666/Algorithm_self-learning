@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P3358
+
 // Source: src/class210/Code06_MultisetIntervals1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

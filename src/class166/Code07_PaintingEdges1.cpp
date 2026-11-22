@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF576E
+// https://codeforces.com/problemset/problem/576/E
+
 // Source: src/class166/Code07_PaintingEdges1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

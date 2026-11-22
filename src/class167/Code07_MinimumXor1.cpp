@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/AT_abc308_g
+// https://atcoder.jp/contests/abc308/tasks/abc308_g
+
 // Source: src/class167/Code07_MinimumXor1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

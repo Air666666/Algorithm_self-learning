@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/P4170
+// https://leetcode.cn/problems/strange-printer/
+
 // Source: src/class077/Code02_Coloring.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

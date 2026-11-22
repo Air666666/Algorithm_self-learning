@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/CF44G
+// https://codeforces.com/problemset/problem/44/G
+
 // Source: src/class206/Code01_ShootingGallery1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

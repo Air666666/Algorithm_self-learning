@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/minimize-the-total-price-of-the-trips/
+
 // Source: src/class122/Code03_MinimizePriceOfTrips1.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

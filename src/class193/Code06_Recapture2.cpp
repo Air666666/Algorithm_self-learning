@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/s5kipK/
+
 // Handle the single-vertex graph explicitly.
 // Restored upstream C++: src/class193/Code06_Recapture2.java
 #include <algorithm>

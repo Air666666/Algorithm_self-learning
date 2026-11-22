@@ -1,3 +1,6 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://leetcode.cn/problems/find-the-count-of-monotonic-pairs-ii/
+
 // Source: src/class144/Code04_SplitWays2.java
 // Generated from the Java AST; shared-reference arrays preserve Java mutation
 // semantics.

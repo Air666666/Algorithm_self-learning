@@ -1,3 +1,7 @@
+// 原题测试 / 参考链接（保留上游原始地址）
+// https://www.luogu.com.cn/problem/AT_abc287_h
+// https://atcoder.jp/contests/abc287/tasks/abc287_h
+
 // Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class207/Code06_DirectedGraphAndQuery2.java
 // Restored from the upstream author's commented C++ implementation.
 // 有向图与查询，C++版
