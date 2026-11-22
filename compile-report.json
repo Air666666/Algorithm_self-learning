@@ -5,6 +5,16 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class002/Experiment.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class003/BinarySystem.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class004/SelectBubbleInsert.cpp",
     "passed": true,
     "diagnostics": ""
@@ -31,6 +41,11 @@
   },
   {
     "file": "src/class006/Code04_FindPeakElement.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class007/Complexity.cpp",
     "passed": true,
     "diagnostics": ""
   },
@@ -170,7 +185,97 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class027/Code01_MergeKSortedLists.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class027/Code02_MaxCover.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class027/Code03_MinimumOperationsToHalveArraySum.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class028/Code01_RadixSort.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class028/Code02_RadixSort.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class030/Code01_SwapExclusiveOr.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class030/Code02_GetMaxWithoutJudge.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class030/Code03_MissingNumber.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class030/Code04_SingleNumber.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class030/Code05_DoubleNumber1.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class030/Code05_DoubleNumber2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class030/Code06_OneKindNumberLessMtimes.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class031/Code01_PowerOfTwo.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class031/Code02_PowerOfThree.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class031/Code03_Near2power.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class031/Code04_LeftToRightAnd.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class031/Code05_ReverseBits.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class031/Code06_CountOnesBinarySystem.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code03_WidthOfBinaryTree2.cpp",
     "passed": true,
     "diagnostics": ""
   },
@@ -1360,12 +1465,22 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class188/Code03_Arrangement2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class188/Code04_WordChain2.cpp",
     "passed": true,
     "diagnostics": ""
   },
   {
     "file": "src/class188/Code05_LetterPairs2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code06_CrackingTheSafe2.cpp",
     "passed": true,
     "diagnostics": ""
   },
@@ -1495,6 +1610,11 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class191/Code02_CutEdge2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class191/Code03_CriticalNetworkLines2.cpp",
     "passed": true,
     "diagnostics": ""
@@ -1576,6 +1696,11 @@
   },
   {
     "file": "src/class193/Code05_VBCC2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class193/Code06_Recapture2.cpp",
     "passed": true,
     "diagnostics": ""
   },
