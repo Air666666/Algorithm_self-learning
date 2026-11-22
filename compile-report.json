@@ -35,6 +35,11 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class009/ListReverse.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class010/MergeTwoLists.cpp",
     "passed": true,
     "diagnostics": ""
@@ -80,6 +85,36 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class019/Code01_FillFunction.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class019/Code02_SpecifyAmount.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class019/Code03_StaticSpace.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class019/Code04_ReadByLine.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class019/Code05_Kattio.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class019/Code06_FastReaderWriter.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class020/GetMaxValue.cpp",
     "passed": true,
     "diagnostics": ""
@@ -95,7 +130,42 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class022/Code01_SmallSum1.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class022/Code01_SmallSum2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class022/Code02_ReversePairs.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class023/Code01_QuickSort.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class023/Code02_QuickSort.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class024/RandomizedSelect.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class025/Code01_HeapSort.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class025/Code02_HeapSort.cpp",
     "passed": true,
     "diagnostics": ""
   },

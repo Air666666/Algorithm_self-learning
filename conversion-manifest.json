@@ -1,7 +1,7 @@
 {
   "source_commit": "8a7aa9993c3f5a8752c328831a5ddf9028ca18a1",
   "total": 1539,
-  "compiled": 425,
+  "compiled": 439,
   "files": [
     {
       "source": "src/class001/LanguageConversion.java",
@@ -77,8 +77,8 @@
       "source": "src/class009/ListReverse.java",
       "source_sha": "f9b66baa078efc6ed545980eef9609216eeaaf76",
       "target": "src/class009/ListReverse.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class010/MergeTwoLists.java",
@@ -147,43 +147,43 @@
       "source": "src/class019/Code01_FillFunction.java",
       "source_sha": "b94835e751795e17494b9541aa5cb9e2727583ff",
       "target": "src/class019/Code01_FillFunction.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class019/Code02_SpecifyAmount.java",
       "source_sha": "fe331754535f571fa25ed5ceb1f2aa981916a030",
       "target": "src/class019/Code02_SpecifyAmount.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class019/Code03_StaticSpace.java",
       "source_sha": "b4381ecb00d3bc164ca8caf91ccae6e83da1133e",
       "target": "src/class019/Code03_StaticSpace.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class019/Code04_ReadByLine.java",
       "source_sha": "bdef7eff69b36a44c037d8d2a1eb7876cc57f181",
       "target": "src/class019/Code04_ReadByLine.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class019/Code05_Kattio.java",
       "source_sha": "1dbfbe4a2a3b1d5efd152f5a5b3280602e16dfc3",
       "target": "src/class019/Code05_Kattio.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class019/Code06_FastReaderWriter.java",
       "source_sha": "de275d37b2d23fe95d441a33fc372b633356dd89",
       "target": "src/class019/Code06_FastReaderWriter.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class020/GetMaxValue.java",
@@ -210,8 +210,8 @@
       "source": "src/class022/Code01_SmallSum1.java",
       "source_sha": "0830a55b9cf3df1bdd0eb7b0f3a7270b269c4362",
       "target": "src/class022/Code01_SmallSum1.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class022/Code01_SmallSum2.java",
@@ -224,43 +224,43 @@
       "source": "src/class022/Code02_ReversePairs.java",
       "source_sha": "a9b026b11f858a9c8342fe34526571bff7f7a644",
       "target": "src/class022/Code02_ReversePairs.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class023/Code01_QuickSort.java",
       "source_sha": "19afc067bc8c71dd0d1c8a4d82c3d224436b3fe6",
       "target": "src/class023/Code01_QuickSort.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class023/Code02_QuickSort.java",
       "source_sha": "63c0deb9d90c831f28aa21fe5b3d9a40ea52afad",
       "target": "src/class023/Code02_QuickSort.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class024/RandomizedSelect.java",
       "source_sha": "d741733b2b6c2b7aa0c0f69ffb7229be3f9dd8da",
       "target": "src/class024/RandomizedSelect.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class025/Code01_HeapSort.java",
       "source_sha": "f749f43100cc323c318723c89e236441aa971ff5",
       "target": "src/class025/Code01_HeapSort.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class025/Code02_HeapSort.java",
       "source_sha": "e6be4b17cbf4283f1f0ed830684274cff816964e",
       "target": "src/class025/Code02_HeapSort.cpp",
-      "status": "pending",
-      "method": null
+      "status": "compiled",
+      "method": "ported"
     },
     {
       "source": "src/class026/Code01_HashSetAndHashMap.java",
