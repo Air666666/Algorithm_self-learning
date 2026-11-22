@@ -1,0 +1,1 @@
+public class Check {public static void main(String[] args){System.out.println(class062.Code03_MinimumObstacleRemovalToReachCorner.minimumObstacles(new int[][]{new int[]{0,1,1},new int[]{1,1,0},new int[]{1,1,0}}));System.out.println(class062.Code03_MinimumObstacleRemovalToReachCorner.minimumObstacles(new int[][]{new int[]{0,0},new int[]{1,0}}));}}

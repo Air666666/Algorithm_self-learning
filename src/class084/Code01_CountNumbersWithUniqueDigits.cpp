@@ -1,0 +1,38 @@
+// Source: src/class084/Code01_CountNumbersWithUniqueDigits.java
+// Generated from the Java AST; shared-reference arrays preserve Java mutation
+// semantics.
+#include "../../include/jcompat.hpp"
+using namespace j;
+struct Code01_CountNumbersWithUniqueDigits {
+  String toString() const { return j::str(static_cast<const void *>(this)); }
+  Code01_CountNumbersWithUniqueDigits() {}
+  static int countNumbersWithUniqueDigits(int n) {
+    if ((n == 0)) {
+      return 1;
+    }
+    int ans = 10;
+    {
+      int s = 9;
+      int i = 9;
+      int k = 2;
+      for (; (k <= n); (i--), (k++)) {
+        (s *= i);
+        (ans += s);
+      }
+    }
+    return ans;
+  }
+};
+
+/* Original teaching comments:
+// 统计各位数字都不同的数字个数
+// 给你一个整数n，代表十进制数字最多有n位
+// 如果某个数字，每一位都不同，那么这个数字叫做有效数字
+// 返回有效数字的个数，不统计负数范围
+// 测试链接 : https://leetcode.cn/problems/count-numbers-with-unique-digits/
+                // 1 : 10
+                // 2 : 9 * 9
+                // 3 : 9 * 9 * 8
+                // 4 : 9 * 9 * 8 * 7
+                // ...都累加起来...
+*/

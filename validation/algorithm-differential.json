@@ -1,0 +1,282 @@
+[
+  {
+    "source": "src/class050/Code05_ContainerWithMostWater.java",
+    "method": "maxArea",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class050/Code03_TrappingRainWater.java",
+    "method": "trap2",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class050/Code07_FirstMissingPositive.java",
+    "method": "firstMissingPositive",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class053/Code01_MaximumWidthRamp.java",
+    "method": "maxWidthRamp",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class053/Code03_BigFishEatSmallFish.java",
+    "method": "totalSteps",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class049/Code02_LongestSubstringWithoutRepeatingCharacters.java",
+    "method": "lengthOfLongestSubstring",
+    "cases": 39,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class053/Code02_RemoveDuplicateLetters.java",
+    "method": "removeDuplicateLetters",
+    "cases": 39,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class066/Code08_DistinctSubsequencesII.java",
+    "method": "distinctSubseqII",
+    "cases": 39,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class103/Code01_Manacher.java",
+    "method": "manacher",
+    "cases": 39,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class104/Code02_NumberOfPalindromeSubstrings.java",
+    "method": "countSubstrings",
+    "cases": 39,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class068/Code02_EditDistance.java",
+    "method": "minDistance",
+    "cases": 39,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class100/Code01_KMP.java",
+    "method": "strStr",
+    "cases": 39,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class105/Code03_SubstringHash.java",
+    "method": "strStr",
+    "cases": 39,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class049/Code01_MinimumSizeSubarraySum.java",
+    "method": "minSubArrayLen",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class054/Code02_LongestSubarrayAbsoluteLimit.java",
+    "method": "longestSubarray",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class051/Code01_KokoEatingBananas.java",
+    "method": "minEatingSpeed",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class051/Code02_SplitArrayLargestSum.java",
+    "method": "splitArray",
+    "cases": 35,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class041/Code02_NthMagicalNumber.java",
+    "method": "nthMagicalNumber",
+    "cases": 40,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class041/Code01_GcdAndLcm.java",
+    "method": "gcd",
+    "cases": 40,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class041/Code03_SameMod.java",
+    "method": "f1",
+    "cases": 40,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class099/Code03_InverseFactorial.java",
+    "method": "c1",
+    "cases": 34,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class147/Code08_TreehouseLadder.java",
+    "method": "compute",
+    "cases": 49,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class039/Code01_BasicCalculatorIII.java",
+    "method": "calculate",
+    "cases": 5,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class039/Code02_DecodeString.java",
+    "method": "decodeString",
+    "cases": 4,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class039/Code03_NumberOfAtoms.java",
+    "method": "countOfAtoms",
+    "cases": 3,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class062/Code03_MinimumObstacleRemovalToReachCorner.java",
+    "method": "minimumObstacles",
+    "cases": 2,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class064/Code02_PathWithMinimumEffort.java",
+    "method": "minimumEffortPath",
+    "cases": 15,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "source": "src/class057/Code03_NumberOfGoodPaths.java",
+    "method": "numberOfGoodPaths",
+    "cases": 2,
+    "passed": true,
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  }
+]

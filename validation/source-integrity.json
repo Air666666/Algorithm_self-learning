@@ -1,0 +1,8 @@
+{
+  "source_commit": "8a7aa9993c3f5a8752c328831a5ddf9028ca18a1",
+  "source_files": 1539,
+  "exact_git_blob_matches": 965,
+  "matches_after_removing_added_trailing_newline": 572,
+  "matches_after_restoring_CRLF": 2,
+  "unexplained_differences": 0
+}

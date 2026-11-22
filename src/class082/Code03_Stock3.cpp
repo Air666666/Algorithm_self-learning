@@ -1,0 +1,123 @@
+// Source: src/class082/Code03_Stock3.java
+// Generated from the Java AST; shared-reference arrays preserve Java mutation
+// semantics.
+#include "../../include/jcompat.hpp"
+using namespace j;
+struct Code03_Stock3 {
+  String toString() const { return j::str(static_cast<const void *>(this)); }
+  Code03_Stock3() {}
+  static int maxProfit1(Array<int> prices) {
+    int n = prices.length;
+    Array<int> dp1 = make_array<int>(n);
+    {
+      int i = 1;
+      int min = prices[0];
+      for (; (i < n); (i++)) {
+        (min = jmin(min, prices[i]));
+        (dp1[i] = jmax(dp1[(i - 1)], (prices[i] - min)));
+      }
+    }
+    Array<int> dp2 = make_array<int>(n);
+    int ans = 0;
+    for (int i = 1; (i < n); (i++)) {
+      for (int j = 0; (j <= i); (j++)) {
+        (dp2[i] = jmax(dp2[i], ((dp1[j] + prices[i]) - prices[j])));
+      }
+      (ans = jmax(ans, dp2[i]));
+    }
+    return ans;
+  }
+  static int maxProfit2(Array<int> prices) {
+    int n = prices.length;
+    Array<int> dp1 = make_array<int>(n);
+    {
+      int i = 1;
+      int min = prices[0];
+      for (; (i < n); (i++)) {
+        (min = jmin(min, prices[i]));
+        (dp1[i] = jmax(dp1[(i - 1)], (prices[i] - min)));
+      }
+    }
+    Array<int> best = make_array<int>(n);
+    (best[0] = (dp1[0] - prices[0]));
+    for (int i = 1; (i < n); (i++)) {
+      (best[i] = jmax(best[(i - 1)], (dp1[i] - prices[i])));
+    }
+    Array<int> dp2 = make_array<int>(n);
+    int ans = 0;
+    for (int i = 1; (i < n); (i++)) {
+      (dp2[i] = (best[i] + prices[i]));
+      (ans = jmax(ans, dp2[i]));
+    }
+    return ans;
+  }
+  static int maxProfit3(Array<int> prices) {
+    int n = prices.length;
+    Array<int> dp1 = make_array<int>(n);
+    Array<int> best = make_array<int>(n);
+    (best[0] = (-prices[0]));
+    Array<int> dp2 = make_array<int>(n);
+    int ans = 0;
+    {
+      int i = 1;
+      int min = prices[0];
+      for (; (i < n); (i++)) {
+        (min = jmin(min, prices[i]));
+        (dp1[i] = jmax(dp1[(i - 1)], (prices[i] - min)));
+        (best[i] = jmax(best[(i - 1)], (dp1[i] - prices[i])));
+        (dp2[i] = (best[i] + prices[i]));
+        (ans = jmax(ans, dp2[i]));
+      }
+    }
+    return ans;
+  }
+  static int maxProfit4(Array<int> prices) {
+    int dp1 = 0;
+    int best = (-prices[0]);
+    int ans = 0;
+    {
+      int i = 1;
+      int min = prices[0];
+      for (; (i < prices.length); (i++)) {
+        (min = jmin(min, prices[i]));
+        (dp1 = jmax(dp1, (prices[i] - min)));
+        (best = jmax(best, (dp1 - prices[i])));
+        (ans = jmax(ans, (best + prices[i])));
+      }
+    }
+    return ans;
+  }
+};
+
+/* Original teaching comments:
+// 买卖股票的最佳时机 III
+// 给定一个数组，它的第 i 个元素是一支给定的股票在第 i 天的价格。
+// 设计一个算法来计算你所能获取的最大利润。你最多可以完成 两笔 交易
+// 注意：你不能同时参与多笔交易，你必须在再次购买前出售掉之前的股票
+// 测试链接 : https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii
+        // 完全不优化枚举的方法
+        // 通过不了，会超时
+                // dp1[i] :
+0...i范围上发生一次交易，不要求在i的时刻卖出，最大利润是多少
+                // dp2[i] :
+0...i范围上发生两次交易，并且第二次交易在i时刻卖出，最大利润是多少
+                        // 第二次交易一定要在i时刻卖出
+                                // 枚举第二次交易的买入时机j <= i
+        // 观察出优化枚举的方法
+        // 引入best数组，需要分析能力
+                // dp1[i] :
+0...i范围上发生一次交易，不要求在i的时刻卖出，最大利润是多少
+                // best[i] : 0...i范围上，所有的dp1[i]-prices[i]，最大值是多少
+                // 这是数组的设置完全是为了替代最后for循环的枚举行为
+                // dp2[i] :
+0...i范围上发生两次交易，并且第二次交易在i时刻卖出，最大利润是多少
+                        // 不需要枚举了
+                        //
+因为，best[i]已经揭示了，0...i范围上，所有的dp1[i]-prices[i]，最大值是多少
+        // 发现所有更新行为都可以放在一起
+        // 并不需要写多个并列的for循环
+        // 就是等义改写，不需要分析能力
+        // 发现只需要有限几个变量滚动更新下去就可以了
+        // 空间压缩的版本
+        // 就是等义改写，不需要分析能力
+*/

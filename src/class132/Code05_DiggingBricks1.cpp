@@ -1,0 +1,88 @@
+// Source: src/class132/Code05_DiggingBricks1.java
+// Generated from the Java AST; shared-reference arrays preserve Java mutation
+// semantics.
+#include "../../include/jcompat.hpp"
+using namespace j;
+struct Code05_DiggingBricks1 {
+  inline static int MAXN = 51;
+  inline static int MAXM = 1301;
+  inline static Array<Array<int>> grid = make_array<int>(MAXN, MAXN);
+  inline static Array<Array<Array<int>>> dp = make_array<int>(MAXN, MAXN, MAXM);
+  inline static int n = {};
+  inline static int m = {};
+  String toString() const { return j::str(static_cast<const void *>(this)); }
+  Code05_DiggingBricks1() {}
+  static void java_main(Array<String> args) {
+    IO br = IO(IO(jin));
+    Tokenizer in = Tokenizer(br);
+    IO out = IO(IO(jout));
+    in.nextToken();
+    (n = static_cast<int>(in.nval));
+    in.nextToken();
+    (m = static_cast<int>(in.nval));
+    for (int j = 1; (j <= n); (j++)) {
+      for (int i = n; (i >= j); (i--)) {
+        in.nextToken();
+        (grid[i][j] = static_cast<int>(in.nval));
+      }
+    }
+    out.println(Code05_DiggingBricks1::compute());
+    out.flush();
+    out.close();
+    br.close();
+  }
+  static int compute() {
+    int ans = 0;
+    {
+      int i = 1;
+      int cur = {};
+      int max = {};
+      for (; (i <= n); (i++)) {
+        (cur = 0);
+        for (int j = 0; (j <= i); (j++)) {
+          (cur += grid[i][j]);
+          for (int k = jdiv(((j + 1) * j), 2); (k <= m); (k++)) {
+            (max = 0);
+            for (int p = jmax(0, (j - 1)); (p <= (i - 1)); (p++)) {
+              (max = jmax(max, dp[(i - 1)][p][(k - j)]));
+            }
+            (dp[i][j][k] = (max + cur));
+            (ans = jmax(ans, dp[i][j][k]));
+          }
+        }
+      }
+    }
+    return ans;
+  }
+};
+int main() {
+  std::ios::sync_with_stdio(false);
+  std::cin.tie(nullptr);
+  Code05_DiggingBricks1::java_main(Array<String>{});
+  return 0;
+}
+
+/* Original teaching comments:
+// 从上到下挖砖块(展示动态规划思路，不优化枚举，不进行空间压缩)
+//
+一堆组成倒三角形状的砖埋在地里，一共有n层，第1层有n块砖，每层递减，类似如下数据
+// 4 2 9 5
+//  3 1 7
+//   2 4
+//    8
+// 需要从第1层开始挖，每挖开一块砖都可以获得数值作为收益，第1层的砖可以随意挖
+//
+但是挖到下面的砖是有条件的，想挖i层的j号砖，你需要确保i-1层的(j、j+1)块砖已经被挖开
+// 最多可以挖m块砖，返回最大的收益
+// 1 <= n <= 50
+// 1 <= m <= 1300
+// 砖块数值 <= 100
+// 测试链接 : https://www.luogu.com.cn/problem/P1437
+// 提交以下的code，提交时请把类名改成"Main"，可以通过所有测试用例
+        // 只展示核心思路，不优化枚举，不做空间压缩
+        // 时间复杂度O(n^3 * m)
+                        // cur是当前行的收益
+                                // 想挖到j号砖，总共挖的数量一定不少于
+                                // (j + 1) * j / 2，也就是等差数列
+                                // 如果k小于这个值无意义，认为收益是0
+*/

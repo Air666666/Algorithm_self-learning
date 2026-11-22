@@ -1,0 +1,147 @@
+// Source: src/class064/Code06_FlightPath1.java
+// Generated from the Java AST; shared-reference arrays preserve Java mutation
+// semantics.
+#include "../../include/jcompat.hpp"
+using namespace j;
+struct Code06_FlightPath1 {
+  inline static int MAXN = 10001;
+  inline static int MAXM = 100001;
+  inline static int MAXK = 11;
+  inline static Array<int> head = make_array<int>(MAXN);
+  inline static Array<int> next = make_array<int>(MAXM);
+  inline static Array<int> to = make_array<int>(MAXM);
+  inline static Array<int> weight = make_array<int>(MAXM);
+  inline static int cnt = {};
+  inline static Array<Array<int>> distance = make_array<int>(MAXN, MAXK);
+  inline static Array<Array<bool>> visited = make_array<bool>(MAXN, MAXK);
+  inline static JHeap<Array<int>> heap = JHeap<Array<int>>(
+      [](Array<int> a, Array<int> b) { return (a[2] - b[2]); });
+  inline static int n = {};
+  inline static int m = {};
+  inline static int k = {};
+  inline static int s = {};
+  inline static int t = {};
+  String toString() const { return j::str(static_cast<const void *>(this)); }
+  Code06_FlightPath1() {}
+  static void build() {
+    (cnt = 1);
+    for (int i = 0; (i < n); (i++)) {
+      (head[i] = 0);
+      for (int j = 0; (j <= k); (j++)) {
+        (distance[i][j] = std::numeric_limits<int>::max());
+        (visited[i][j] = false);
+      }
+    }
+    heap.clear();
+  }
+  static void addEdge(int u, int v, int w) {
+    (next[cnt] = head[u]);
+    (to[cnt] = v);
+    (weight[cnt] = w);
+    (head[u] = (cnt++));
+  }
+  static void java_main(Array<String> args) {
+    IO br = IO(IO(jin));
+    Tokenizer in = Tokenizer(br);
+    IO out = IO(IO(jout));
+    while ((in.nextToken() != -1)) {
+      (n = static_cast<int>(in.nval));
+      in.nextToken();
+      (m = static_cast<int>(in.nval));
+      in.nextToken();
+      (k = static_cast<int>(in.nval));
+      in.nextToken();
+      (s = static_cast<int>(in.nval));
+      in.nextToken();
+      (t = static_cast<int>(in.nval));
+      Code06_FlightPath1::build();
+      {
+        int i = 0;
+        int a = {};
+        int b = {};
+        int c = {};
+        for (; (i < m); (i++)) {
+          in.nextToken();
+          (a = static_cast<int>(in.nval));
+          in.nextToken();
+          (b = static_cast<int>(in.nval));
+          in.nextToken();
+          (c = static_cast<int>(in.nval));
+          Code06_FlightPath1::addEdge(a, b, c);
+          Code06_FlightPath1::addEdge(b, a, c);
+        }
+      }
+      out.println(Code06_FlightPath1::dijkstra());
+    }
+    out.flush();
+    out.close();
+    br.close();
+  }
+  static int dijkstra() {
+    (distance[s][0] = 0);
+    heap.add(Array<int>{s, 0, 0});
+    while ((!heap.isEmpty())) {
+      Array<int> record = heap.poll();
+      int u = record[0];
+      int use = record[1];
+      int cost = record[2];
+      if (visited[u][use]) {
+        continue;
+      }
+      (visited[u][use] = true);
+      if ((u == t)) {
+        return cost;
+      }
+      {
+        int ei = head[u];
+        int v = {};
+        int w = {};
+        for (; (ei > 0); (ei = next[ei])) {
+          (v = to[ei]);
+          (w = weight[ei]);
+          if (((use < k) && (distance[v][(use + 1)] > distance[u][use]))) {
+            (distance[v][(use + 1)] = distance[u][use]);
+            heap.add(Array<int>{v, (use + 1), distance[v][(use + 1)]});
+          }
+          if ((distance[v][use] > (distance[u][use] + w))) {
+            (distance[v][use] = (distance[u][use] + w));
+            heap.add(Array<int>{v, use, distance[v][use]});
+          }
+        }
+      }
+    }
+    return (-1);
+  }
+};
+int main() {
+  std::ios::sync_with_stdio(false);
+  std::cin.tie(nullptr);
+  Code06_FlightPath1::java_main(Array<String>{});
+  return 0;
+}
+
+/* Original teaching comments:
+// 飞行路线（语言提供的堆）
+// Alice和Bob现在要乘飞机旅行，他们选择了一家相对便宜的航空公司
+// 该航空公司一共在n个城市设有业务，设这些城市分别标记为0 ~ n−1
+// 一共有m种航线，每种航线连接两个城市，并且航线有一定的价格
+// Alice 和 Bob 现在要从一个城市沿着航线到达另一个城市，途中可以进行转机
+// 航空公司对他们这次旅行也推出优惠，他们可以免费在最多k种航线上搭乘飞机
+// 那么 Alice 和 Bob 这次出行最少花费多少
+// 测试链接 : https://www.luogu.com.cn/problem/P4568
+// 请同学们务必参考如下代码中关于输入、输出的处理
+// 这是输入输出处理效率很高的写法
+// 提交以下所有代码，把主类名改成Main，可以直接通过
+        // 链式前向星建图需要
+        // Dijkstra需要
+        // 用语言自己提供的堆
+        // 动态结构，不推荐
+        // 0 : 到达的城市编号
+        // 1 : 已经使用的免单次数
+        // 2 : 沿途的花费
+                                // 常见剪枝
+                                // 发现终点直接返回
+                                // 不用等都结束
+                                        // 使用免费
+                                        // 不用免费
+*/

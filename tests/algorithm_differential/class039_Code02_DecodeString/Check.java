@@ -1,0 +1,1 @@
+public class Check {public static void main(String[] args){System.out.println(class039.Code02_DecodeString.decodeString("3[a]2[bc]"));System.out.println(class039.Code02_DecodeString.decodeString("3[a2[c]]"));System.out.println(class039.Code02_DecodeString.decodeString("2[abc]3[cd]ef"));System.out.println(class039.Code02_DecodeString.decodeString("abc3[cd]xyz"));}}

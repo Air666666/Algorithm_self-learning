@@ -1,0 +1,6 @@
+*.o
+*.pch
+*.dSYM/
+__pycache__/
+solution
+prime

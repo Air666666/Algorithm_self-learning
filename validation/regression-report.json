@@ -1,0 +1,217 @@
+[
+  {
+    "file": "tests/bits_basics.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/bitset_arithmetic.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/compat_runtime.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/containers.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/heap_radix.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/intro.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/io.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/linked_lists.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/restored_solutions.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/sorting_matrix.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/translator_regression.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/tree_bfs_build.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/tree_codecs.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/tree_properties.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/trees_merge.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class039_Code01_BasicCalculatorIII/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class039_Code02_DecodeString/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class039_Code03_NumberOfAtoms/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class041_Code01_GcdAndLcm/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class041_Code02_NthMagicalNumber/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class041_Code03_SameMod/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class049_Code01_MinimumSizeSubarraySum/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class049_Code02_LongestSubstringWithoutRepeatingCharacters/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class050_Code03_TrappingRainWater/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class050_Code05_ContainerWithMostWater/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class050_Code07_FirstMissingPositive/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class051_Code01_KokoEatingBananas/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class051_Code02_SplitArrayLargestSum/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class053_Code01_MaximumWidthRamp/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class053_Code02_RemoveDuplicateLetters/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class053_Code03_BigFishEatSmallFish/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class054_Code02_LongestSubarrayAbsoluteLimit/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class057_Code03_NumberOfGoodPaths/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class062_Code03_MinimumObstacleRemovalToReachCorner/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class064_Code02_PathWithMinimumEffort/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class066_Code08_DistinctSubsequencesII/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class068_Code02_EditDistance/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class099_Code03_InverseFactorial/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class100_Code01_KMP/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class103_Code01_Manacher/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class104_Code02_NumberOfPalindromeSubstrings/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class105_Code03_SubstringHash/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
+    "file": "tests/algorithm_differential/class147_Code08_TreehouseLadder/check.cpp",
+    "passed": true,
+    "exit_code": 0
+  }
+]

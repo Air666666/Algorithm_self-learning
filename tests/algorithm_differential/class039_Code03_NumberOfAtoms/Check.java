@@ -1,0 +1,1 @@
+public class Check {public static void main(String[] args){System.out.println(class039.Code03_NumberOfAtoms.countOfAtoms("H2O"));System.out.println(class039.Code03_NumberOfAtoms.countOfAtoms("Mg(OH)2"));System.out.println(class039.Code03_NumberOfAtoms.countOfAtoms("K4(ON(SO3)2)2"));}}
