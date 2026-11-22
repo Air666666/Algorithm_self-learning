@@ -20,7 +20,7 @@ struct Code01_Elevator {
   inline static Array<i64> weight = make_array<i64>(MAXM);
   inline static int cnt = {};
   inline static JHeap<Array<i64>> heap = JHeap<Array<i64>>(
-      [](Array<i64> a, Array<i64> b) { return ((a[1] <= b[1]) ? (-1) : 1); });
+      [](Array<i64> a, Array<i64> b) { return jcompare(a[1], b[1]); });
   inline static Array<i64> distance = make_array<i64>(MAXN);
   inline static Array<bool> visited = make_array<bool>(MAXN);
   String toString() const { return j::str(static_cast<const void *>(this)); }

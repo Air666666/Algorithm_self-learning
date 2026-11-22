@@ -219,7 +219,7 @@ struct Code08_Tourists1 {
     Code08_Tourists1::dfs2(1, 1);
     Code08_Tourists1::build(1, cnti, 1);
     for (int i = 1; (i <= q); (i++)) {
-      jchar op = in.nextChar();
+      jchar op = in.nextLetter();
       int x = in.nextInt();
       int y = in.nextInt();
       if ((op == u'C')) {

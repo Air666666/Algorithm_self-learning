@@ -28,7 +28,7 @@ struct Code04_MinimumCostToHireWorkers {
            jdiv(static_cast<double>(wage[i]), quality[i]), quality[i]));
     }
     j::sort(employees, [=](Employee *a, Employee *b) {
-      return ((a->ratio <= b->ratio) ? (-1) : 1);
+      return jcompare(a->ratio, b->ratio);
     });
     JHeap<int> heap =
         JHeap<int>([=](Box<int> a, Box<int> b) { return (b - a); });

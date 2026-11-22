@@ -332,7 +332,7 @@ struct Code02_CameraRelocationAndQueries1 {
         (qx = Code02_CameraRelocationAndQueries1::decode(qx, (-100), 100));
         (qy = Code02_CameraRelocationAndQueries1::decode(qy, (-100), 100));
         (qz = Code02_CameraRelocationAndQueries1::decode(qz, (-100), 100));
-        (camera = static_cast<int>(std::llround(
+        (camera = static_cast<int>(jround(
              Code02_CameraRelocationAndQueries1::decode(qid, 1, n))));
         Code02_CameraRelocationAndQueries1::remove(cameraToKdt[camera]);
         Code02_CameraRelocationAndQueries1::add(qx, qy, qz, camera);

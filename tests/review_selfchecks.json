@@ -1,0 +1,544 @@
+[
+  {
+    "file": "src/class038/Code06_SortStackWithRecursive.cpp",
+    "parameters": {
+      "testTimes": [
+        "20000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "1\n1\n2\n2\n3\n3\n4\n4\n5\n5\n测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class041/Code03_SameMod.cpp",
+    "parameters": {
+      "testTime": [
+        "100000",
+        "100"
+      ],
+      "mod": [
+        "1000000007",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n===\na : 7428793129873965056\nb : 8106916477480730624\nc : 5102221341474422784\nd : 6864689017808486400\n===\nf1 : 424\nf2 : 424\n"
+  },
+  {
+    "file": "src/class051/Code06_WaitingTime.cpp",
+    "parameters": {
+      "N": [
+        "50",
+        "30"
+      ],
+      "M": [
+        "3000",
+        "1000"
+      ],
+      "testTime": [
+        "20000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class051/Code07_CutOrPoison.cpp",
+    "parameters": {
+      "testTimes": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class068/Code05_MinimumDeleteBecomeSubstring.cpp",
+    "parameters": {
+      "testTime": [
+        "20000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class071/Code02_MaxSumDividedBy7.cpp",
+    "parameters": {
+      "testTime": [
+        "20000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class071/Code03_MagicScrollProbelm.cpp",
+    "parameters": {
+      "n": [
+        "50",
+        "30"
+      ],
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class071/Code05_ReverseArraySubarrayMaxSum.cpp",
+    "parameters": {
+      "n": [
+        "50",
+        "30"
+      ],
+      "testTime": [
+        "20000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class071/Code06_DeleteOneNumberLengthKMaxSum.cpp",
+    "parameters": {
+      "n": [
+        "200",
+        "30"
+      ],
+      "testTimes": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class073/Code06_TopKMinimumSubsequenceSum.cpp",
+    "parameters": {
+      "testTime": [
+        "5000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class087/Code02_PickNumbersClosedSum.cpp",
+    "parameters": {
+      "N": [
+        "60",
+        "30"
+      ],
+      "testTime": [
+        "5000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class089/Code01_LargestNumber.cpp",
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试到第100组\n测试结束\n"
+  },
+  {
+    "file": "src/class090/Code02_MaximumProduct.cpp",
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试到第100组\n测试结束\n"
+  },
+  {
+    "file": "src/class090/Code03_MeetingMonopoly1.cpp",
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试到第100组\n测试结束\n"
+  },
+  {
+    "file": "src/class090/Code06_AbsoluteValueAddToArray.cpp",
+    "parameters": {
+      "N": [
+        "50",
+        "30"
+      ],
+      "testTimes": [
+        "20000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class091/Code03_GroupBuyTickets1.cpp",
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试到第100组\n测试结束\n"
+  },
+  {
+    "file": "src/class091/Code04_SplitMinimumAverageSum.cpp",
+    "parameters": {
+      "V": [
+        "10000",
+        "1000"
+      ],
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试到第100组\n测试结束\n"
+  },
+  {
+    "file": "src/class091/Code05_MinimalBatteryPower.cpp",
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试到第100组\n测试结束\n"
+  },
+  {
+    "file": "src/class091/Code06_LongestSameZerosOnes.cpp",
+    "parameters": {
+      "N": [
+        "500",
+        "30"
+      ],
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试到第100组\n测试结束\n"
+  },
+  {
+    "file": "src/class095/Code01_BashGame.cpp",
+    "parameters": {
+      "testTimes": [
+        "5000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class096/Code01_BashGameSG.cpp",
+    "parameters": {
+      "testTimes": [
+        "10000",
+        "100"
+      ],
+      "n": [
+        "100",
+        "30"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class096/Code02_NimGameSG.cpp",
+    "parameters": {
+      "N": [
+        "200",
+        "30"
+      ],
+      "testTimes": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class099/Code03_InverseFactorial.cpp",
+    "parameters": {
+      "n": [
+        "500",
+        "30"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n计算 C ( 537 , 367 ) % 1000000007\n方法1答案 : 787459994\n方法2答案 : 787459994\n"
+  },
+  {
+    "file": "src/class110/Code02_SegmentTreeUpdateQuerySum.cpp",
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "2000",
+        "1000"
+      ],
+      "t": [
+        "5000000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class110/Code03_SegmentTreeAddQueryMax.cpp",
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "2000",
+        "1000"
+      ],
+      "t": [
+        "5000000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class110/Code04_SegmentTreeUpdateQueryMax.cpp",
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "2000",
+        "1000"
+      ],
+      "t": [
+        "5000000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class110/Code05_SegmentTreeUpdateAddQuerySum.cpp",
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "2000",
+        "1000"
+      ],
+      "t": [
+        "5000000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class114/Code03_SegmentTreeSetminQueryMaxSum1.cpp",
+    "parameters": {
+      "n": [
+        "2000",
+        "30"
+      ],
+      "v": [
+        "5000",
+        "1000"
+      ],
+      "t": [
+        "1000000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class114/Code04_SegmentTreeAddSetminQueryMaxSum.cpp",
+    "parameters": {
+      "n": [
+        "2000",
+        "30"
+      ],
+      "v": [
+        "5000",
+        "1000"
+      ],
+      "t": [
+        "1000000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class117/Code04_FrequentValues1.cpp",
+    "parameters": {
+      "n": [
+        "10000",
+        "30"
+      ],
+      "m": [
+        "5000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class127/Code03_MultiplyPositiveNegative1.cpp",
+    "parameters": {
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class128/Code02_BestDeploy1.cpp",
+    "parameters": {
+      "maxn": [
+        "100",
+        "30"
+      ],
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class129/Code04_FindNear.cpp",
+    "parameters": {
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class132/Code01_MeetingRestK.cpp",
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "3000",
+        "1000"
+      ],
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class146/Code04_JosephFollowUp.cpp",
+    "parameters": {
+      "N": [
+        "100",
+        "30"
+      ],
+      "test": [
+        "10000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class146/Code05_PerfectShuffle.cpp",
+    "parameters": {
+      "n": [
+        "10000",
+        "30"
+      ],
+      "v": [
+        "100000",
+        "1000"
+      ],
+      "test": [
+        "50000",
+        "100"
+      ]
+    },
+    "seed": 1729,
+    "expected": "测试开始\n测试结束\n"
+  },
+  {
+    "file": "src/class198/Code03_Cdq_Optimization_2D_java.cpp",
+    "parameters": {
+      "weightMax": [
+        "10000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "cdq优化建图，二维偏序\n=============\n第1轮\n测试开始\n测试结束\n=======\n第2轮\n测试开始\n测试结束\n=======\n第3轮\n测试开始\n测试结束\n=======\n第4轮\n测试开始\n测试结束\n=======\n第5轮\n测试开始\n测试结束\n=======\n第6轮\n测试开始\n测试结束\n=======\n第7轮\n测试开始\n测试结束\n=======\n第8轮\n测试开始\n测试结束\n=======\n第9轮\n测试开始\n测试结束\n=======\n第10轮\n测试开始\n测试结束\n=======\n第11轮\n测试开始\n测试结束\n=======\n第12轮\n测试开始\n测试结束\n=======\n第13轮\n测试开始\n测试结束\n=======\n第14轮\n测试开始\n测试结束\n=======\n第15轮\n测试开始\n测试结束\n=======\n第16轮\n测试开始\n测试结束\n=======\n第17轮\n测试开始\n测试结束\n=======\n第18轮\n测试开始\n测试结束\n=======\n第19轮\n测试开始\n测试结束\n=======\n第20轮\n测试开始\n测试结束\n=======\n"
+  },
+  {
+    "file": "src/class198/Code04_Cdq_Optimization_3D_java.cpp",
+    "parameters": {
+      "weightMax": [
+        "10000",
+        "1000"
+      ]
+    },
+    "seed": 1729,
+    "expected": "cdq优化建图，三维偏序\n=============\n第1轮\n测试开始\n测试结束\n=======\n第2轮\n测试开始\n测试结束\n=======\n第3轮\n测试开始\n测试结束\n=======\n第4轮\n测试开始\n测试结束\n=======\n第5轮\n测试开始\n测试结束\n=======\n第6轮\n测试开始\n测试结束\n=======\n第7轮\n测试开始\n测试结束\n=======\n第8轮\n测试开始\n测试结束\n=======\n第9轮\n测试开始\n测试结束\n=======\n第10轮\n测试开始\n测试结束\n=======\n第11轮\n测试开始\n测试结束\n=======\n第12轮\n测试开始\n测试结束\n=======\n第13轮\n测试开始\n测试结束\n=======\n第14轮\n测试开始\n测试结束\n=======\n第15轮\n测试开始\n测试结束\n=======\n第16轮\n测试开始\n测试结束\n=======\n第17轮\n测试开始\n测试结束\n=======\n第18轮\n测试开始\n测试结束\n=======\n第19轮\n测试开始\n测试结束\n=======\n第20轮\n测试开始\n测试结束\n=======\n"
+  }
+]

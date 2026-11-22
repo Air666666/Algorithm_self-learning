@@ -232,7 +232,7 @@ struct Code07_Forest1 {
     int k = {};
     int lastAns = 0;
     for (int i = 1; (i <= t); (i++)) {
-      (op = in.nextChar());
+      (op = in.nextTokenLastChar());
       (x = (in.nextInt() ^ lastAns));
       (y = (in.nextInt() ^ lastAns));
       if ((op == u'Q')) {

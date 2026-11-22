@@ -320,6 +320,7 @@ template <class A, class B> auto jrem(A a, B b) {
   } else
     return std::fmod(x, y);
 }
+inline i64 jround(double x) {if(std::isnan(x))return 0;if(x>=static_cast<double>(std::numeric_limits<i64>::max()))return std::numeric_limits<i64>::max();if(x<=static_cast<double>(std::numeric_limits<i64>::min()))return std::numeric_limits<i64>::min();double lower=std::floor(x);return static_cast<i64>((x-lower)>=0.5?lower+1:lower);}
 inline double random() {
   static std::mt19937_64 g(20261122);
   return std::generate_canonical<double, 53>(g);
@@ -590,7 +591,7 @@ template <class T> struct JList {
   auto begin() const { return p->begin(); }
   auto end() const { return p->end(); }
   template <class C> void sort(C cmp) {
-    std::sort(p->begin(), p->end(), [&](const T &a, const T &b) {
+    std::stable_sort(p->begin(), p->end(), [&](const T &a, const T &b) {
       return compare_call(cmp, a, b) < 0;
     });
   }
@@ -681,6 +682,7 @@ template <class T> struct JHeap {
   void clear() { p->v.clear(); }
 };
 template <class T> struct JSet {
+  using Nullable = std::conditional_t<std::is_arithmetic_v<T>, Box<T>, T>;
   struct Data {
     std::set<T, std::function<bool(T, T)>> s;
     Data(std::function<bool(T, T)> c) : s(c) {}
@@ -713,21 +715,21 @@ template <class T> struct JSet {
     remove(x);
     return x;
   }
-  Box<T> lower(T x) {
+  Nullable lower(T x) {
     auto it = p->s.lower_bound(x);
-    return it == p->s.begin() ? Box<T>{} : Box<T>(*--it);
+    return it == p->s.begin() ? Nullable{} : Nullable(*--it);
   }
-  Box<T> higher(T x) {
+  Nullable higher(T x) {
     auto it = p->s.upper_bound(x);
-    return it == p->s.end() ? Box<T>{} : Box<T>(*it);
+    return it == p->s.end() ? Nullable{} : Nullable(*it);
   }
-  Box<T> floor(T x) {
+  Nullable floor(T x) {
     auto it = p->s.upper_bound(x);
-    return it == p->s.begin() ? Box<T>{} : Box<T>(*--it);
+    return it == p->s.begin() ? Nullable{} : Nullable(*--it);
   }
-  Box<T> ceiling(T x) {
+  Nullable ceiling(T x) {
     auto it = p->s.lower_bound(x);
-    return it == p->s.end() ? Box<T>{} : Box<T>(*it);
+    return it == p->s.end() ? Nullable{} : Nullable(*it);
   }
   auto begin() const { return p->s.begin(); }
   auto end() const { return p->s.end(); }
@@ -875,9 +877,11 @@ struct IO {
   String readString() { return next(); }
   jchar nextChar() {
     char c;
-    std::cin >> c;
+    if (!(std::cin >> c)) return 0;
     return static_cast<unsigned char>(c);
   }
+  jchar nextTokenLastChar() {String s=next();return s==nullptr?0:s.charAt(s.length()-1);}
+  jchar nextLetter() {int c;do {c=std::cin.get();}while(c!=EOF&&!((c>='A'&&c<='Z')||(c>='a'&&c<='z')));return c==EOF?0:c;}
   jchar nextLowerCase() {
     int c;
     do {
@@ -962,6 +966,13 @@ struct IO {
 };
 inline IO jout;
 inline IO jin;
+// Text editor input includes printable spaces; token reads consume one delimiter,
+// matching the source FastReader before reading an Insert payload.
+struct TextEditorIO : IO {
+  String nextString(){auto s=IO::next();if(s!=nullptr&&std::cin.peek()!=EOF)std::cin.get();return s;}
+  int nextInt(){return std::stoi(text(nextString()));}
+  jchar nextChar(){int c;do{c=std::cin.get();}while(c!=EOF&&(c<32||c>126));return c==EOF?0:c;}
+};
 struct Tokenizer : IO {
   double nval = 0;
   String sval;

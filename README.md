@@ -45,12 +45,16 @@ python3 tools/test.py
 
 原题的输入规模、下标和递归深度约束仍然适用。链表、树和其他节点使用指针，长期复用实例时需由调用者管理节点生命周期。提交在线评测前，需按平台要求提供入口并携带公共头文件；不同平台的依赖和内存限制可能需要调整。
 
+## 转换代码复查
+
+复查发现并修复了文本编辑器空格读入、空集合引用查询、比较器相等处理等问题。修复记录、失败用例和逐文件验证范围见 [代码审查报告](validation/CODE_REVIEW.md)。新增 1,800 组暴力对照、38 个 Java 随机对数器和 22 个程序的 51 组输入对照；全部通过。
+
 ## 验证结果
 
 - **1,539 / 1,539** 个源文件通过 Apple Clang 21、C++17 独立编译检查，见 [compile-report.json](compile-report.json)。检查使用 `-fsyntax-only`，不把无入口的教学片段强行链接为程序。
 - **28 项算法、861 组用例**与固定源版本的 Java 运行结果逐项一致，涵盖字符串、动态规划、滑动窗口、二分、堆、并查集和高精度运算，见 [算法对照记录](validation/algorithm-differential.json)。
 - **11 类完整程序、26 组输入**与 Java 的标准输出逐字一致，包括时间格式输入、超大整数判素、树状数组、线段树、高斯消元、异或约束、欧拉路径和传递闭包，见 [输入输出对照记录](validation/stdin-differential.json)。输入和期望输出保存在 `tests/java_cpp_fixtures/`。
-- **43 个回归测试程序全部通过**，启用 ASan/UBSan，见 [regression-report.json](validation/regression-report.json)。包括此前批次的随机测试、公共运行库测试、表达式求值回归，以及上述算法对照驱动。Java 对照驱动需要另行取得原 Java 源码；C++ 驱动及期望输出已包含在仓库中。
+- **44 个回归测试程序全部通过**，启用 ASan/UBSan，见 [regression-report.json](validation/regression-report.json)。包括此前批次的随机测试、公共运行库测试、表达式求值回归，以及上述算法对照驱动。Java 对照驱动需要另行取得原 Java 源码；C++ 驱动及期望输出已包含在仓库中。
 - 1,539 个源文件的 Git blob SHA 均已核对；本地副本的差异仅涉及末尾换行和 CRLF，见 [source-integrity.json](validation/source-integrity.json)。
 
 编译和抽样运行通过**不代表所有题目均已通过在线评测**。并未对全部题目运行完整评测数据。Java 随机演示使用 C++ 随机引擎；对象默认字符串、无序集合遍历顺序和运行计时不保证与 JVM 一致。哈希函数教学示例实现 MD5，算法枚举仅列出这一实现，不模拟 Java 安全提供者的全部算法。

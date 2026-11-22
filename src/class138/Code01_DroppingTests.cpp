@@ -13,7 +13,7 @@ struct Code01_DroppingTests {
     String toString() const { return j::str(static_cast<const void *>(this)); }
     MyComparator() {}
     int compare(Array<double> o1, Array<double> o2) {
-      return ((o1[2] >= o2[2]) ? (-1) : 1);
+      return jcompare(o2[2], o1[2]);
     }
   };
   inline static int MAXN = 1001;

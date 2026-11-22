@@ -1,0 +1,58 @@
+[
+  {
+    "name": "class152/Code03_TextEditor1",
+    "passed": false,
+    "cases": 2,
+    "results": [
+      {
+        "passed": false,
+        "java_exit": 0,
+        "cpp_exit": -6,
+        "expected": " a b \n",
+        "actual": "libc++abi: terminating due to uncaught exception of type std::invalid_argument: stoi: no conversion\n"
+      },
+      {
+        "passed": false,
+        "java_exit": 0,
+        "cpp_exit": 0,
+        "expected": " \nhello world\n",
+        "actual": "hello\nh\nhelloworldM\n"
+      }
+    ]
+  },
+  {
+    "name": "class172/Code06_TextEditor1",
+    "passed": false,
+    "cases": 2,
+    "results": [
+      {
+        "passed": false,
+        "java_exit": 0,
+        "cpp_exit": -6,
+        "expected": " a b \n",
+        "actual": "libc++abi: terminating due to uncaught exception of type std::invalid_argument: stoi: no conversion\n"
+      },
+      {
+        "passed": false,
+        "java_exit": 0,
+        "cpp_exit": 0,
+        "expected": " \nhello world\n",
+        "actual": "hello\nh\nhelloworldM\n"
+      }
+    ]
+  },
+  {
+    "name": "class129/Code04_FindNear",
+    "passed": false,
+    "cases": 1,
+    "results": [
+      {
+        "passed": false,
+        "java_exit": 0,
+        "cpp_exit": -6,
+        "expected": "4 2\n3 4\n4 0\n0 0\n",
+        "actual": "libc++abi: terminating due to uncaught exception of type std::runtime_error: null unboxing\n"
+      }
+    ]
+  }
+]

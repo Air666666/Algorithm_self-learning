@@ -110,7 +110,7 @@ struct Code02_NeverLand1 {
     int y = {};
     int k = {};
     for (int i = 1; (i <= q); (i++)) {
-      (op = in.nextChar());
+      (op = in.nextTokenLastChar());
       if ((op == u'B')) {
         (x = in.nextInt());
         (y = in.nextInt());

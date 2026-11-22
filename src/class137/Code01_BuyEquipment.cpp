@@ -21,7 +21,7 @@ struct Code01_BuyEquipment {
   static void compute() {
     (cnt = (cost = 0));
     j::sort(mat, 1, (n + 1), [=](Array<double> a, Array<double> b) {
-      return ((a[(m + 1)] <= b[(m + 1)]) ? (-1) : 1);
+      return jcompare(a[(m + 1)], b[(m + 1)]);
     });
     for (int i = 1; (i <= n); (i++)) {
       if (Code01_BuyEquipment::insert(i)) {

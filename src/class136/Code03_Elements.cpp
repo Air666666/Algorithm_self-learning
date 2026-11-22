@@ -18,7 +18,7 @@ struct Code03_Elements {
   static i64 compute() {
     i64 ans = 0;
     j::sort(arr, 1, (n + 1), [=](Array<i64> a, Array<i64> b) {
-      return ((a[1] >= b[1]) ? (-1) : 1);
+      return jcompare(b[1], a[1]);
     });
     for (int i = 1; (i <= n); (i++)) {
       if (Code03_Elements::insert(arr[i][0])) {

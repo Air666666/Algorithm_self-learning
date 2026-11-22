@@ -108,7 +108,7 @@ struct Code06_MoWithModify1 {
     int pos = {};
     int val = {};
     for (int i = 1; (i <= m); (i++)) {
-      (op = in.nextChar());
+      (op = in.nextTokenLastChar());
       if ((op == u'Q')) {
         (l = in.nextInt());
         (r = in.nextInt());

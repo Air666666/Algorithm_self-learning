@@ -113,7 +113,7 @@ struct Code02_DynamicRankings1 {
     }
     jchar type = {};
     for (int i = 1; (i <= m); (i++)) {
-      (type = in.nextChar());
+      (type = in.nextTokenLastChar());
       if ((type == u'C')) {
         int a = in.nextInt();
         int b = in.nextInt();

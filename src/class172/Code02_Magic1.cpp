@@ -112,7 +112,7 @@ struct Code02_Magic1 {
     int r = {};
     int v = {};
     for (int i = 1; (i <= m); (i++)) {
-      (op = in.nextChar());
+      (op = in.nextTokenLastChar());
       (l = in.nextInt());
       (r = in.nextInt());
       (v = in.nextInt());

@@ -173,7 +173,7 @@ struct Code07_HideSeek3 {
       int i = 1;
       int x = {};
       for (; (i <= m); (i++)) {
-        (op = in.nextChar());
+        (op = in.nextTokenLastChar());
         if ((op == u'C')) {
           (x = in.nextInt());
           (black[x] = (!black[x]));

@@ -1,0 +1,658 @@
+[
+  {
+    "file": "src/class038/Code06_SortStackWithRecursive.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "20000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class041/Code03_SameMod.cpp",
+    "passed": true,
+    "parameters": {
+      "testTime": [
+        "100000",
+        "100"
+      ],
+      "mod": [
+        "1000000007",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class051/Code06_WaitingTime.cpp",
+    "passed": true,
+    "parameters": {
+      "N": [
+        "50",
+        "30"
+      ],
+      "M": [
+        "3000",
+        "1000"
+      ],
+      "testTime": [
+        "20000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class051/Code07_CutOrPoison.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class068/Code05_MinimumDeleteBecomeSubstring.cpp",
+    "passed": true,
+    "parameters": {
+      "testTime": [
+        "20000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class071/Code02_MaxSumDividedBy7.cpp",
+    "passed": true,
+    "parameters": {
+      "testTime": [
+        "20000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class071/Code03_MagicScrollProbelm.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "50",
+        "30"
+      ],
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class071/Code05_ReverseArraySubarrayMaxSum.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "50",
+        "30"
+      ],
+      "testTime": [
+        "20000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class071/Code06_DeleteOneNumberLengthKMaxSum.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "200",
+        "30"
+      ],
+      "testTimes": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class073/Code06_TopKMinimumSubsequenceSum.cpp",
+    "passed": true,
+    "parameters": {
+      "testTime": [
+        "5000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class087/Code02_PickNumbersClosedSum.cpp",
+    "passed": true,
+    "parameters": {
+      "N": [
+        "60",
+        "30"
+      ],
+      "testTime": [
+        "5000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class089/Code01_LargestNumber.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class090/Code02_MaximumProduct.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class090/Code03_MeetingMonopoly1.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class090/Code06_AbsoluteValueAddToArray.cpp",
+    "passed": true,
+    "parameters": {
+      "N": [
+        "50",
+        "30"
+      ],
+      "testTimes": [
+        "20000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class091/Code03_GroupBuyTickets1.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class091/Code04_SplitMinimumAverageSum.cpp",
+    "passed": true,
+    "parameters": {
+      "V": [
+        "10000",
+        "1000"
+      ],
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class091/Code05_MinimalBatteryPower.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class091/Code06_LongestSameZerosOnes.cpp",
+    "passed": true,
+    "parameters": {
+      "N": [
+        "500",
+        "30"
+      ],
+      "testTimes": [
+        "2000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class095/Code01_BashGame.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "5000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class096/Code01_BashGameSG.cpp",
+    "passed": true,
+    "parameters": {
+      "testTimes": [
+        "10000",
+        "100"
+      ],
+      "n": [
+        "100",
+        "30"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class096/Code02_NimGameSG.cpp",
+    "passed": true,
+    "parameters": {
+      "N": [
+        "200",
+        "30"
+      ],
+      "testTimes": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class099/Code03_InverseFactorial.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "500",
+        "30"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class110/Code02_SegmentTreeUpdateQuerySum.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "2000",
+        "1000"
+      ],
+      "t": [
+        "5000000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class110/Code03_SegmentTreeAddQueryMax.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "2000",
+        "1000"
+      ],
+      "t": [
+        "5000000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class110/Code04_SegmentTreeUpdateQueryMax.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "2000",
+        "1000"
+      ],
+      "t": [
+        "5000000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class110/Code05_SegmentTreeUpdateAddQuerySum.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "2000",
+        "1000"
+      ],
+      "t": [
+        "5000000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class114/Code03_SegmentTreeSetminQueryMaxSum1.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "2000",
+        "30"
+      ],
+      "v": [
+        "5000",
+        "1000"
+      ],
+      "t": [
+        "1000000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class114/Code04_SegmentTreeAddSetminQueryMaxSum.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "2000",
+        "30"
+      ],
+      "v": [
+        "5000",
+        "1000"
+      ],
+      "t": [
+        "1000000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class117/Code04_FrequentValues1.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "10000",
+        "30"
+      ],
+      "m": [
+        "5000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class127/Code03_MultiplyPositiveNegative1.cpp",
+    "passed": true,
+    "parameters": {
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class128/Code02_BestDeploy1.cpp",
+    "passed": true,
+    "parameters": {
+      "maxn": [
+        "100",
+        "30"
+      ],
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class129/Code04_FindNear.cpp",
+    "passed": true,
+    "parameters": {
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class132/Code01_MeetingRestK.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "1000",
+        "30"
+      ],
+      "v": [
+        "3000",
+        "1000"
+      ],
+      "testTime": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class146/Code04_JosephFollowUp.cpp",
+    "passed": true,
+    "parameters": {
+      "N": [
+        "100",
+        "30"
+      ],
+      "test": [
+        "10000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class146/Code05_PerfectShuffle.cpp",
+    "passed": true,
+    "parameters": {
+      "n": [
+        "10000",
+        "30"
+      ],
+      "v": [
+        "100000",
+        "1000"
+      ],
+      "test": [
+        "50000",
+        "100"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class198/Code03_Cdq_Optimization_2D_java.cpp",
+    "passed": true,
+    "parameters": {
+      "weightMax": [
+        "10000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  },
+  {
+    "file": "src/class198/Code04_Cdq_Optimization_3D_java.cpp",
+    "passed": true,
+    "parameters": {
+      "weightMax": [
+        "10000",
+        "1000"
+      ]
+    },
+    "java_exit": 0,
+    "cpp_exit": 0,
+    "expected": "",
+    "actual": ""
+  }
+]

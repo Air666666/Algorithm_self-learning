@@ -132,7 +132,7 @@ struct Code06_TextEditor1 {
     }
   }
   static void java_main(Array<String> args) {
-    IO in = IO();
+    TextEditorIO in;
     IO out = IO(IO(jout));
     int n = in.nextInt();
     int pos = 0;

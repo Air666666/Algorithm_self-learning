@@ -264,7 +264,7 @@ struct Code02_Game1 {
     int k = {};
     int v = {};
     for (int i = 1; (i <= m); (i++)) {
-      (op = in.nextChar());
+      (op = in.nextTokenLastChar());
       if ((op == u'M')) {
         (x = in.nextInt());
         (k = in.nextInt());

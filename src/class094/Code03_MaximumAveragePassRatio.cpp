@@ -13,7 +13,7 @@ struct Code03_MaximumAveragePassRatio {
     int n = classes.length;
     JHeap<Array<double>> heap =
         JHeap<Array<double>>([=](Array<double> c1, Array<double> c2) {
-          return ((c1[2] >= c2[2]) ? (-1) : 1);
+          return jcompare(c2[2], c1[2]);
         });
     for (Array<int> c : classes) {
       double a = c[0];

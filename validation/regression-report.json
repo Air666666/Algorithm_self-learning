@@ -45,6 +45,11 @@
     "exit_code": 0
   },
   {
+    "file": "tests/review_regressions.cpp",
+    "passed": true,
+    "exit_code": 0
+  },
+  {
     "file": "tests/sorting_matrix.cpp",
     "passed": true,
     "exit_code": 0

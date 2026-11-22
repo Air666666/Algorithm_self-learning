@@ -1,0 +1,356 @@
+[
+  {
+    "file": "src/class038/Code06_SortStackWithRecursive.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class041/Code03_SameMod.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class051/Code06_WaitingTime.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class051/Code07_CutOrPoison.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class068/Code05_MinimumDeleteBecomeSubstring.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class071/Code02_MaxSumDividedBy7.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class071/Code03_MagicScrollProbelm.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class071/Code05_ReverseArraySubarrayMaxSum.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class071/Code06_DeleteOneNumberLengthKMaxSum.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class073/Code06_TopKMinimumSubsequenceSum.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class087/Code02_PickNumbersClosedSum.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class089/Code01_LargestNumber.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class090/Code02_MaximumProduct.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class090/Code03_MeetingMonopoly1.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class090/Code06_AbsoluteValueAddToArray.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class091/Code03_GroupBuyTickets1.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class091/Code04_SplitMinimumAverageSum.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class091/Code05_MinimalBatteryPower.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class091/Code06_LongestSameZerosOnes.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class095/Code01_BashGame.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class096/Code01_BashGameSG.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class096/Code02_NimGameSG.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class099/Code03_InverseFactorial.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class110/Code02_SegmentTreeUpdateQuerySum.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class110/Code03_SegmentTreeAddQueryMax.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class110/Code04_SegmentTreeUpdateQueryMax.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class110/Code05_SegmentTreeUpdateAddQuerySum.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class114/Code03_SegmentTreeSetminQueryMaxSum1.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class114/Code04_SegmentTreeAddSetminQueryMaxSum.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class117/Code04_FrequentValues1.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class127/Code03_MultiplyPositiveNegative1.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class128/Code02_BestDeploy1.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class129/Code04_FindNear.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class132/Code01_MeetingRestK.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class146/Code04_JosephFollowUp.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class146/Code05_PerfectShuffle.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class198/Code03_Cdq_Optimization_2D_java.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class198/Code04_Cdq_Optimization_3D_java.cpp",
+    "kind": "selfcheck",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class075/Code03_CherryBlossomViewing.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 2
+  },
+  {
+    "file": "src/class097/Code02_LargeNumberIsPrime1.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class097/Code02_LargeNumberIsPrime2.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class097/Code02_LargeNumberIsPrime3.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class097/Code02_LargeNumberIsPrime4.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class108/Code01_IndexTreeSingleAddIntervalQuery.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class108/Code03_IndexTreeIntervalAddIntervalQuery.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class110/Code01_SegmentTreeAddQuerySum.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class133/Code01_GaussAdd.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 2
+  },
+  {
+    "file": "src/class147/Code08_TreehouseLadder.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 2
+  },
+  {
+    "file": "src/class152/Code03_TextEditor1.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 2
+  },
+  {
+    "file": "src/class156/Code09_ExclusiveOR.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class157/Code04_TagPermanentization1.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class157/Code04_TagPermanentization2.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class172/Code06_TextEditor1.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 2
+  },
+  {
+    "file": "src/class175/Code05_Skyscraper1.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class175/Code05_Skyscraper2.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 1
+  },
+  {
+    "file": "src/class188/Code01_DirectedEuler1.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 2
+  },
+  {
+    "file": "src/class188/Code01_DirectedEuler2.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 2
+  },
+  {
+    "file": "src/class207/Code02_TransitiveClosure1.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 12
+  },
+  {
+    "file": "src/class207/Code02_TransitiveClosure2.cpp",
+    "kind": "stdin",
+    "passed": true,
+    "cases": 12
+  }
+]

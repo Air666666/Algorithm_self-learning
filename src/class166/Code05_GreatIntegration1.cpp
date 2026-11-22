@@ -142,7 +142,7 @@ struct Code05_GreatIntegration1 {
     int x = {};
     int y = {};
     for (int i = 1; (i <= q); (i++)) {
-      (t = in.nextChar());
+      (t = in.nextTokenLastChar());
       (x = in.nextInt());
       (y = in.nextInt());
       (op[i] = ((t == u'A') ? 1 : 2));

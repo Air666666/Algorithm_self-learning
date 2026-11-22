@@ -54,7 +54,7 @@ struct Code01_HashCollision1 {
     int x = {};
     int y = {};
     for (int i = 1; (i <= m); (i++)) {
-      (op = in.nextChar());
+      (op = in.nextTokenLastChar());
       (x = in.nextInt());
       (y = in.nextInt());
       if ((op == u'A')) {

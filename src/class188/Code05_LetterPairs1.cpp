@@ -80,8 +80,8 @@ struct Code05_LetterPairs1 {
     IO out = IO(IO(jout));
     (m = in.nextInt());
     for (int i = 1; (i <= m); (i++)) {
-      (arr[i][0] = in.nextChar());
-      (arr[i][1] = in.nextChar());
+      (arr[i][0] = in.nextLetter());
+      (arr[i][1] = in.nextLetter());
     }
     Code05_LetterPairs1::connect();
     int start = Code05_LetterPairs1::undirectedStart();

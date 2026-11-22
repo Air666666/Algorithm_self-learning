@@ -129,7 +129,7 @@ struct Code06_RearrangePalindrome1 {
       int edg = {};
       for (; (i <= n); (i++)) {
         (fth = in.nextInt());
-        (edg = (in.nextChar() - u'a'));
+        (edg = (in.nextTokenLastChar() - u'a'));
         Code06_RearrangePalindrome1::addEdge(fth, i, edg);
       }
     }
