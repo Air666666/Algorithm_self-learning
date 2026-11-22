@@ -1,0 +1,2082 @@
+[
+  {
+    "file": "src/class001/LanguageConversion.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class004/SelectBubbleInsert.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class005/Validator.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class006/Code01_FindNumber.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class006/Code02_FindLeft.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class006/Code03_FindRight.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class006/Code04_FindPeakElement.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class010/MergeTwoLists.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class011/AddTwoNumbers.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class012/PartitionList.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class022/Code01_SmallSum2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class030/Code02_GetMaxWithoutJudge.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class043/Code02_SuperPalindromesCPP1.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class043/Code02_SuperPalindromesCPP2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class108/Code05_TwoDimensionIntervalAddIntervalQuery2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class112/Code04_MeanVariance2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class114/Code05_MaximumMinimumHistory2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class114/Code06_FakestPlayer2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class119/Code01_EmergencyAssembly2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class122/Code05_TransportPlan3.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class140/Code01_DiophantineEquation2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class148/Code01_AVL2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class148/FollowUp2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class149/SkipList2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class150/Better2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class150/Code02_ScapeGoat2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class151/Code01_DescartesTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class151/Code02_Treap2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class151/FollowUp2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class152/Code01_FHQTreapWithCount2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class152/Code02_FHQTreapWithoutCount2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class152/Code03_TextEditor2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class152/Code04_LiteraryTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class152/Code05_PersistentFHQTreap2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class152/Code06_PersistentLiteraryTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class152/FollowUp2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class153/Code01_Splay2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class153/Code02_FrustratedCashier2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class153/Code03_LiteraryTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class153/Code04_Bookcase2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class153/Code05_MaintainSequence2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class153/FollowUp2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class154/Code01_LeftistTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class154/Code01_LeftistTree4.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class154/Code02_Convict2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class154/Code03_MonkeyKing2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class154/Code04_Dispatch2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class154/Code05_NumberSequence2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class154/FollowUp2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class155/Code01_CityCapture2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class155/Code02_TrickyOperation2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class155/Code03_PersistentLeftistTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class155/Code04_Blocks2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class155/Code05_KShortestPath2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class157/Code01_PointPersistent2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class157/Code02_PointPersistent2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class157/Code03_RangePersistentClassic2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class157/Code04_TagPermanentization2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class157/Code05_RangePersistentLessSpace2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class158/Code01_FirstTimeSequence2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class158/Code02_MissingSmallest2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class158/Code03_LargestUpMedian2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class158/Code04_CountOnTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class158/Code05_MoreImpressive2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class159/Code01_MaxXor2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class159/Code02_StringTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class159/Code03_PathDfnXor2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class159/Code04_Yummy2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class159/Code05_ALO2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class159/Code06_XorOperation2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class159/Code07_Friends2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class160/Code01_SegmentWithSegment2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class160/Code02_QueryKthMaximum2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class160/Code03_SegmentWithBalanced2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class160/Code04_IndexWithSegment2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class160/Code05_DynamicRankings2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class160/Code06_LineUp2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class160/Code07_NetworkManagement2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class161/Code01_HLD2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class161/Code02_LCA2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class161/Code03_PathMaxAndSum2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class161/Code04_PackageManager2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class161/Code05_Coloring2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class161/Code06_Tourism2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class161/Code07_FarAway2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class162/Code01_GrassPlanting2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class162/Code02_NationalTour2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class162/Code03_UnderMoon2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class162/Code04_TreeKthAncestor2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class162/Code05_Walkthrough2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class162/Code06_DominantIndices2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class162/Code07_HotHotels2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class163/Code01_DsuOnTree3.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class163/Code02_ColorBanlance3.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class163/Code03_LomsatGelral2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class163/Code04_DifferntName2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class163/Code05_BloodCousins2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class163/Code06_RearrangePalindrome2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class163/Code07_Forest2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class164/Code01_KruskalRebuild2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class164/Code02_Training2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class164/Code03_StampRally2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class164/Code04_Journey2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class164/Code05_UntilConnect2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class164/Code06_GraphQueries2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class164/Code07_Peaks2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class165/Code01_PersistentUnionFind2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class165/Code02_UndoUnionFind2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class165/Code03_Envy2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class165/Code04_TeamBuilding2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class166/Code01_SegmentTreeDivideConquer2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class166/Code02_CheckBipartiteGraph2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class166/Code03_MinimumMexTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class166/Code04_UniqueOccurrences2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class166/Code05_GreatIntegration2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class166/Code06_ConnectedGraph2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class166/Code07_PaintingEdges2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class167/Code01_MuseumRobbery2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class167/Code02_BlueMoon2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class167/Code03_AdditionOnSegments2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class167/Code04_ShortestPathQueries2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class167/Code05_EightVerticalHorizontal2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class167/Code06_MarsStore2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class167/Code07_MinimumXor2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class168/Code01_RangeKth3.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class168/Code01_RangeKth4.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class168/Code02_MatrixKth3.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class168/Code02_MatrixKth4.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class168/Code03_Meteors3.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class168/Code03_Meteors4.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class169/Code01_Juice2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class169/Code02_DynamicRankings2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class169/Code03_Network2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class169/Code04_Fruit2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class169/Code05_PastoralOddities2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class169/Code06_IvanAndBurgers2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class170/Code01_3DPartialOrder2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class170/Code02_DynamicInversion2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class170/Code03_GardenerTrouble2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class170/Code04_TaskOfC2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class170/Code05_Mokia2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class170/Code06_AngelDoll2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class171/Code01_MooFest2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class171/Code02_AiRobots2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class171/Code03_Sequence2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class171/Code04_Interceptor2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class171/Code05_Cute2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class171/Code06_Treasure2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class172/Code01_GiveAway2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class172/Code02_Magic2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class172/Code03_Violet2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class172/Code04_ModeCnt2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class172/Code05_Poem2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class172/Code06_TextEditor2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class173/Code01_Poker2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class173/Code02_Sequence2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class173/Code03_Magnet2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class173/Code04_Inversion2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class173/Code05_HLD2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class173/Code06_Random2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class173/Code07_Royal2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class173/Code08_FatherMinus2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class174/Code01_FutureDiary2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class174/Code02_MagicGirl2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class174/Code03_ColorfulWorld2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class174/Code04_Bridge2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class174/Code05_Lcm2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class175/Code01_HashCollision2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class175/Code02_ArrayQueries2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class175/Code03_SumOfProgression2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class175/Code04_Initialization2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class175/Code05_Skyscraper2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class175/Code06_TillCollapse2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class175/Code07_GivenTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class176/Code01_MoAlgorithm2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class176/Code02_QueryFromB2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class176/Code03_SockFromZ2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class176/Code04_BloodyString2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class176/Code05_XorSequence2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class176/Code06_MoWithModify2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class176/Code07_UniqueNumbers2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class176/Code08_MachineLearning2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class177/Code01_MoAddUndo2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class177/Code02_ThresholdMajority2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class177/Code03_SameNumberMaxDist2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class177/Code04_ZeroQuery2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class177/Code05_MoDelUndo2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class177/Code06_BaldChief2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class177/Code07_MoOnTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class177/Code08_CandyPark2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class178/Code01_MoOfflineTwice2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class178/Code02_OfflineInversion2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class178/Code03_Abbi2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class178/Code04_Gosick2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class179/Code01_NiceDay2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class179/Code02_SimpleQuery2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class179/Code03_LCP2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class179/Code04_MaximumMatch2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class179/Code05_Homework2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class179/Code06_NotForget2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class179/Code07_RabbitHole2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class179/Code08_YnoiCornfield2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class180/Code01_KingdomAndCities2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class180/Code02_BigProject2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class180/Code03_War2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class180/Code04_WorldTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class180/Code05_TreelandAndViruses2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class180/Code06_TreasureHunt2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class181/Code01_PromotionCounting2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class181/Code02_NeverLand2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class181/Code03_RainyDayTail2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class181/Code04_LoveRunning2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class181/Code05_MinimizeInversion2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class182/Code01_LeadersGroup2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class182/Code02_Minimax2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class182/Code03_Fate2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class182/Code04_SegmentTreeSplit2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class182/Code05_MassChangeQueries2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class183/Code01_Ratio2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class183/Code02_Exist2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class183/Code03_Race2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class183/Code04_Tree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class183/Code05_CloseVertices2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class183/Code06_Maschera2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class183/Code07_Message2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class184/Code01_Capital2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class184/Code02_Difficult2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class184/Code03_Courier2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class184/Code04_Shopping2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class184/Code05_Freezing2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class184/Code06_TreeDistance2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class184/Code07_ModeString2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class185/Code01_Wave2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class185/Code02_Game2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class185/Code03_AtmTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class185/Code04_Fantasy2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class185/Code05_OpenStore2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class185/Code06_ChengDu2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class185/Code07_HideSeek2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class185/Code07_HideSeek4.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class186/Code01_EulerLCA2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class186/Code02_DfnLCA2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class187/Code01_LongestPathTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class187/Code02_Cobweb2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class187/Code03_PersistentEdgeDecompositionTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class187/Code04_ViolentWriting2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class187/Code05_Passage2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code01_DirectedEuler2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code02_UndirectedEuler2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code04_WordChain2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code05_LetterPairs2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code07_Password2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code08_Taiko2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code09_GarbageTruck2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code10_Postman2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class188/Code11_DingXiangRoad2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code01_SCC2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code02_SCC2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code03_SCC2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code04_PopularCow2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code05_NewsSpread2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code06_NetworkOfSchools2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code07_Spy2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code08_Checkposts2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code09_HasPath2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class189/Code10_SafeMarriage2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code01_CondenseTopo2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code02_PickMushroom2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code03_RobberyPlan2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code04_OptimalTrade2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code05_MaximumSemi2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code06_MinimumTime2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code07_SoftwareInstallation2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code08_Candy2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class190/Code09_KillingGame2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class191/Code01_CutEdge2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class191/Code03_CriticalNetworkLines2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class191/Code04_BertownRoads2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class191/Code05_EBCC2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class191/Code06_Network2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class191/Code07_RedundantPaths2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class192/Code01_PursuitArtifacts2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class192/Code02_MostBridges2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class192/Code03_PrisonBreak2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class192/Code04_GodCheat2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class192/Code05_Traveler2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class192/Code06_OneDirection2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class192/Code07_MilitaryCamp2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class193/Code01_CutVertex2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class193/Code02_Electricity2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class193/Code03_Sniffer2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class193/Code04_VBCC2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class193/Code05_VBCC2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class193/Code07_MiningFarm2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class193/Code08_RoundTable2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code01_RoadsMeet2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code02_NetworkDamage2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code03_PathProblem2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code04_Blockade2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code05_Duathlon2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code06_EdgeQueries2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code07_Policija2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code08_Tourists2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code09_StrategyGame2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class194/Code10_LandPlanning2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code01_Legacy2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code02_Journeys2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code03_Road2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code04_Desert2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code05_Bomb2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code06_BeautifulTreeHLD2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code07_BeautifulTreeST2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code08_Forest2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class195/Code09_Jail2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class196/Code01_2SAT2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class196/Code02_Committee2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class196/Code03_Astronauts2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class196/Code04_Constraints2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class196/Code05_Conspiracy2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class196/Code06_Riddle2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class196/Code07_Coprime2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class196/Code08_RadioStations2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class197/Code01_Mafia2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class197/Code02_Flags2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class197/Code03_BinaryCode2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class197/Code04_Game2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class197/Code05_Boolean2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code01_Fenwick_Tree_Optimization_cpp.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code02_Persistent_Segment_Tree_Optimization_cpp.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code03_Cdq_Optimization_2D_cpp.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code04_Cdq_Optimization_3D_cpp.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code05_Partition_Multiset_cpp_1.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code05_Partition_Multiset_cpp_2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code05_Partition_Multiset_cpp_3.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code06_Meow_II_cpp_1.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code06_Meow_II_cpp_2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class198/Code06_Meow_II_cpp_3.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code01_DirectedRoads2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code02_NumberOfSimplePaths2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code03_Knight2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code04_RingRoad2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code05_DiameterMinimize2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code06_Island2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code07_ShortestDistance_cpp_1.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code07_ShortestDistance_cpp_2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class199/Code08_Journey2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/Code01_CactusDeleteEdge2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/Code02_CactusAddEdge2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/Code03_CactusLongestRoute2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/Code04_CactusIndependentSet2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/Code05_CactusDiameter2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/Code06_CactusShortestPaths2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/Code07_MaximumOfShortestPath2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/Code08_CactusPathFlip2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class200/ShowDetail2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class201/Code01_LCT2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class201/Code02_DynamicLCA2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class201/Code03_CaveSurvey2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class201/Code04_Conflict2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class201/Code05_OTOCI2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class201/Code06_Bounce2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class201/Code07_Network2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class202/Code01_DynamicAddMul2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class202/Code02_Coloring2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class202/Code03_TrigeminalTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class202/Code04_TreeDyeing2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class202/Code05_Alliance2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class202/Code06_Running2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class202/Code07_Flight2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class203/Code01_WaterManager2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class203/Code02_MinimumDifference2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class203/Code03_MagicForest2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class203/Code04_Warmth2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class203/Code05_StrictSecondMinimum2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class203/Code05_StrictSecondMinimum4.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class203/Code06_ChangingRoads2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class203/Code07_CityConstruction2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class204/Code01_GreatIntegration2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class204/Code02_QTREE6_2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class204/Code03_QTREE7_2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class204/Code04_QTREE5_2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class204/Code05_Capital2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class204/Code06_NewBarns2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class204/Code07_Fairyland2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class204/Code08_DynamicGraph2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code01_ClosestPair2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code02_QueryKthFarthest2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code03_ChocolateKingdom2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code04_SimpleProblem2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code04_SimpleProblem4.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code05_KdtLazyTag2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code05_KdtLazyTag4.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code06_AngelDoll2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class205/Code07_3DPartialOrder2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class206/Code01_ShootingGallery2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class206/Code02_CameraRelocationAndQueries2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class206/Code03_4DPartialOrder2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class206/Code04_LaoshanBaihua2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class206/Code05_Jump2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class207/Code01_JohnsonAlgorithm2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class207/Code02_TransitiveClosure2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class207/Code03_Connectivity2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class207/Code04_Contest2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class207/Code05_Ranking2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class207/Code06_DirectedGraphAndQuery2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class207/Code07_Sorting2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class208/Code01_EdmondsKarp2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class208/Code02_Dinic2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class208/Code03_ISAP2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class208/Code04_HLPP2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class209/Code01_SSP_SPFA_2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class209/Code02_SSP_Dijkstra_2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class209/Code03_Transport2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class209/Code04_Assignment2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class209/Code05_MorningRun2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class209/Code06_DreamTeam2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  }
+]

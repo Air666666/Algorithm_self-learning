@@ -1,0 +1,212 @@
+// Source: https://github.com/algorithmzuo/algorithm-journey/blob/8a7aa9993c3f5a8752c328831a5ddf9028ca18a1/src/class209/Code05_MorningRun2.java
+// Restored from the upstream author's commented C++ implementation.
+// 晨跑，C++版
+// 给定n个点、m条有向边，源点为1，汇点为n
+// 每条有向边给定起点u、终点v、单位费用c，每条边的容量都是1
+// 除源汇外，其他点最多允许通过1单位的流量，源汇没有这种限制
+// 求从1到n的最大流，打印最大流数值，以及该最大流对应的最小费用
+// 2 <= n <= 200
+// 1 <= m <= 2 * 10^4
+// 1 <= c <= 10^4
+// 测试链接 : https://www.luogu.com.cn/problem/P2153
+// 如下实现是C++的版本，C++版本和java版本逻辑完全一样
+// 提交如下代码，可以通过所有测试用例
+#include <algorithm>
+#include <array>
+#include <bitset>
+#include <cassert>
+#include <cctype>
+#include <cerrno>
+#include <cfloat>
+#include <climits>
+#include <cmath>
+#include <complex>
+#include <cstddef>
+#include <cstdint>
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+#include <deque>
+#include <exception>
+#include <functional>
+#include <iomanip>
+#include <ios>
+#include <iostream>
+#include <iterator>
+#include <limits>
+#include <list>
+#include <map>
+#include <memory>
+#include <numeric>
+#include <queue>
+#include <random>
+#include <set>
+#include <sstream>
+#include <stack>
+#include <stdexcept>
+#include <string>
+#include <tuple>
+#include <type_traits>
+#include <unordered_map>
+#include <unordered_set>
+#include <utility>
+#include <vector>
+
+using namespace std;
+
+const int MAXN = 401;
+const int MAXM = 30001;
+int INF = 1000000001;
+int n, m;
+
+int head[MAXN];
+int nxt[MAXM << 1];
+int to[MAXM << 1];
+int weight[MAXM << 1];
+int cost[MAXM << 1];
+int cntg;
+
+int flow[MAXN];
+int pre[MAXN];
+
+queue<int> que;
+int h[MAXN];
+int update[MAXN];
+bool enter[MAXN];
+
+struct HeapNode {
+    int dist;
+    int u;
+
+    bool operator<(const HeapNode &other) const {
+        return dist > other.dist;
+    }
+};
+
+priority_queue<HeapNode> heap;
+int dist[MAXN];
+bool vis[MAXN];
+
+int maxflow, mincost;
+
+void addEdge(int u, int v, int w, int c) {
+    nxt[++cntg] = head[u];
+    to[cntg] = v;
+    weight[cntg] = w;
+    cost[cntg] = c;
+    head[u] = cntg;
+}
+
+bool spfa(int s) {
+    for (int i = 1; i <= n; i++) {
+        h[i] = INF;
+        update[i] = 0;
+        enter[i] = false;
+    }
+    h[s] = 0;
+    update[s] = 1;
+    enter[s] = true;
+    que = queue<int>();
+    que.push(s);
+    while (!que.empty()) {
+        int u = que.front();
+        que.pop();
+        enter[u] = false;
+        for (int e = head[u], v, w, c; e > 0; e = nxt[e]) {
+            v = to[e];
+            w = weight[e];
+            c = cost[e];
+            if (w > 0 && h[v] > h[u] + c) {
+                h[v] = h[u] + c;
+                if (!enter[v]) {
+                    if (++update[v] > n) {
+                        return true;
+                    }
+                    que.push(v);
+                    enter[v] = true;
+                }
+            }
+        }
+    }
+    return false;
+}
+
+void dijkstra(int s) {
+    for (int i = 1; i <= n; i++) {
+        dist[i] = INF;
+        flow[i] = -1;
+        vis[i] = false;
+    }
+    flow[s] = INF;
+    dist[s] = 0;
+    heap = priority_queue<HeapNode>();
+    heap.push({0, s});
+    while (!heap.empty()) {
+        HeapNode cur = heap.top();
+        heap.pop();
+        int d = cur.dist;
+        int u = cur.u;
+        if (!vis[u]) {
+            vis[u] = true;
+            for (int e = head[u], v, w, c; e > 0; e = nxt[e]) {
+                v = to[e];
+                w = weight[e];
+                c = cost[e] + h[u] - h[v];
+                if (w > 0 && !vis[v] && dist[v] > d + c) {
+                    dist[v] = dist[u] + c;
+                    flow[v] = min(w, flow[u]);
+                    pre[v] = e;
+                    heap.push({dist[v], v});
+                }
+            }
+        }
+    }
+}
+
+bool ssp(int s, int t) {
+    bool negCycle = spfa(s);
+    if (negCycle) {
+        return true;
+    }
+    maxflow = mincost = 0;
+    dijkstra(s);
+    while (flow[t] != -1) {
+        maxflow += flow[t];
+        for (int u = t; u != s; u = to[pre[u] ^ 1]) {
+            weight[pre[u]] -= flow[t];
+            weight[pre[u] ^ 1] += flow[t];
+            mincost += flow[t] * cost[pre[u]];
+        }
+        for (int i = 1; i <= n; i++) {
+            if (dist[i] != INF) {
+                h[i] += dist[i];
+            }
+        }
+        dijkstra(s);
+    }
+    return false;
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cin >> n >> m;
+    cntg = 1;
+    addEdge(1, 1 + n, INF, 0);
+    addEdge(1 + n, 1, 0, 0);
+    addEdge(n, n + n, INF, 0);
+    addEdge(n + n, n, 0, 0);
+    for (int i = 2; i < n; i++) {
+        addEdge(i, i + n, 1, 0);
+        addEdge(i + n, i, 0, 0);
+    }
+    for (int i = 1, u, v, c; i <= m; i++) {
+        cin >> u >> v >> c;
+        addEdge(u + n, v, 1, c);
+        addEdge(v, u + n, 0, -c);
+    }
+    n <<= 1;
+    ssp(1, n);
+    cout << maxflow << " " << mincost << '\n';
+    return 0;
+}
