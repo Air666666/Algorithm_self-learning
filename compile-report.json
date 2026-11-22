@@ -275,7 +275,132 @@
     "diagnostics": ""
   },
   {
+    "file": "src/class032/Code01_Bitset.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class032/Code02_DesignBitsetTest.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class033/BitOperationAddMinusMultiplyDivide.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class034/Code01_IntersectionOfTwoLinkedLists.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class034/Code02_ReverseNodesInkGroup.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class034/Code03_CopyListWithRandomPointer.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class034/Code04_PalindromeLinkedList.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class034/Code05_LinkedListCycleII.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class034/Code06_SortList.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code01_LevelOrderTraversal.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code02_ZigzagLevelOrderTraversal.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code03_WidthOfBinaryTree1.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
     "file": "src/class036/Code03_WidthOfBinaryTree2.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code04_DepthOfBinaryTree.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code05_PreorderSerializeAndDeserialize.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code06_LevelorderSerializeAndDeserialize.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code07_PreorderInorderBuildBinaryTree.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code08_CompletenessOfBinaryTree.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class036/Code09_CountCompleteTreeNodes.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class037/Code01_LowestCommonAncestor.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class037/Code02_LowestCommonAncestorBinarySearch.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class037/Code03_PathSumII.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class037/Code04_BalancedBinaryTree.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class037/Code05_ValidateBinarySearchTree.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class037/Code06_TrimBinarySearchTree.cpp",
+    "passed": true,
+    "diagnostics": ""
+  },
+  {
+    "file": "src/class037/Code07_HouseRobberIII.cpp",
     "passed": true,
     "diagnostics": ""
   },
